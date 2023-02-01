@@ -2,7 +2,17 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+/**
+ * <APIS>
+ *
+ * / => <Videos> hot trending videos
+ * /videos => <Videos> hot trending videos
+ * /videos/query => <Videos> seached videos
+ * /videos/id => <VideosDetail> detail video
+ *
+ */
+
+function App(): JSX.Element {
   return (
     <div className="App">
       <header className="App-header">
