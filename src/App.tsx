@@ -13,12 +13,12 @@ import SearchHeader from './components/SearchHeader';
  */
 
 function App(): JSX.Element {
-  return (
-    <>
-      <SearchHeader />
-      <Outlet />
-    </>
-  );
+    return (
+        <>
+            <SearchHeader />
+            <Outlet />
+        </>
+    );
 }
 
 export default App;

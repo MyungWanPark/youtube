@@ -8,27 +8,27 @@ import Videos from './pages/Videos';
 import VideoDetail from './pages/VideoDetail';
 
 const router = createBrowserRouter([
-  {
-    path: '/',
-    element: <App />,
-    errorElement: <NotFound />,
-    children: [
-      { index: true, element: <Videos /> },
-      { path: 'videos', element: <Videos /> },
-      { path: 'videos/:keyword', element: <Videos /> },
-      { path: 'videos/watch/:videoId', element: <VideoDetail /> },
-    ],
-  },
+    {
+        path: '/',
+        element: <App />,
+        errorElement: <NotFound />,
+        children: [
+            { index: true, element: <Videos /> },
+            { path: 'videos', element: <Videos /> },
+            { path: 'videos/:keyword', element: <Videos /> },
+            { path: 'videos/watch/:videoId', element: <VideoDetail /> },
+        ],
+    },
 ]);
 
 const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
+    document.getElementById('root') as HTMLElement
 );
 root.render(
-  <React.StrictMode>
-    <RouterProvider router={router} />
-    {/* <App /> */}
-  </React.StrictMode>
+    <React.StrictMode>
+        <RouterProvider router={router} />
+        {/* <App /> */}
+    </React.StrictMode>
 );
 
 // If you want to start measuring performance in your app, pass a function
