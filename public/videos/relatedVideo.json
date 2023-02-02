@@ -1,0 +1,969 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "UI_QrHnJg8xhuj9yJXPDcZeZCZM",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7N8OVM-OCloVZtPB3eXMnqHsOPg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aK-liZfLpmM"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-16T05:49:30Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "국가부도만 아홉번! 하지만 소고기는 매일 먹는다!",
+        "description": "#메시 #아르헨티나 #월드컵\n\n. 영상은 매주 토요일 오전 11시에 게시됩니다.\n\n. 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.\n\n. 댓글에 관한 규정\n  - 욕설, 가짜 뉴스, 링크 등이 포함된 댓글은 자동 삭제됩니다.\n  - 혐오 표현, 타인에 대한 공격은 삭제됩니다.\n\n. 비즈니스 문의 : scopepublic@naver.com\n\n. BGM : Feeling Alright - Gavin Luke",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aK-liZfLpmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aK-liZfLpmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aK-liZfLpmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aK-liZfLpmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aK-liZfLpmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-16T05:49:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jh8u_fV3iIzQx9YmvrYQ6EsyIWQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cQ8gy6RKFMI"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-21T13:31:06Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "이건희는 대체 어떻게 삼성을 키웠을까?",
+        "description": "#삼성 #이건희 #이재용\n\n. 업로드는 매주 토요일 오전 11시 혹은 저녁에 됩니다\n. 혐오, 욕설 등 악플은 삭제 됩니다\n. 문의 : scopepublic@naver.com\n. BGM : Feeling Alright - Gavin Luke",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cQ8gy6RKFMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cQ8gy6RKFMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cQ8gy6RKFMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cQ8gy6RKFMI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cQ8gy6RKFMI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-21T13:31:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h6X43QEwln949BKKP4nSmbx1IY0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OfrWeLCO9rw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T02:29:28Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "유럽인들이 치즈를 먹는 방법",
+        "description": "#치즈 #와인 #안주\n\n. 영상은 매주 토요일 오전 11시에 게시됩니다.\n\n. 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.\n\n. 댓글에 관한 규정\n  - 욕설, 가짜 뉴스, 링크 등이 포함된 댓글은 자동 삭제됩니다.\n  - 과도한 혐오 표현, 타인에 대한 공격은 삭제됩니다.\n\n. 비즈니스 문의 : scopepublic@naver.com\n\n. BGM : Feeling Alright - Gavin Luke",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OfrWeLCO9rw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OfrWeLCO9rw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OfrWeLCO9rw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OfrWeLCO9rw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OfrWeLCO9rw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T02:29:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qudm5ObwbHKjbuAE5OYszkL3aTQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J6WgGmaPXd0"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-12T07:43:19Z",
+        "channelId": "UCcYk_KPZZMLv_bcaSAWSSxA",
+        "title": "스타벅스는 왜 세계에서 유일하게 호주에서 실패했을까?",
+        "description": "* 출간 도서 '삶이 허기질 때 나는 교양을 읽는다' 구매 링크 :  https://bit.ly/3tnybpW\n\n\n우리나라에 부동산 불패가 있다면 커피업계엔 스타벅스 불패가 있습니다. 그만큼 스타벅스는 전 세계에서 거대한 성공을 거두어 왔습니다. \n\n그렇다고 스타벅스가 모든 시장에서 성공한 것은 아닙니다. 전 세계에서 딱 한군데, 호주에서만큼은 참패했습니다. 약 1천4백억 원의 적자를 감당할 수 없었던 호주 스타벅스는 2008년 70%에 달하는 매장을 한꺼번에 폐쇄했습니다. 무엇이 잘못된 걸까요?\n\n스타벅스는 1996년 일본 동경을 시작으로 본격적인 해외 진출에 나섰습니다. 이어 영국 한국으로 확장했고, 심지어 스타벅스에 적대적인 ‘차의 나라’ 중국에서조차 대성공을 거두었습니다. 그러자 무서운 적이 찾아왔습니다. 바로 자만심입니다.\n\n#스타벅스호주 #호주커피시장 #스타벅스문화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J6WgGmaPXd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J6WgGmaPXd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J6WgGmaPXd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J6WgGmaPXd0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J6WgGmaPXd0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식 브런치",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-12T07:43:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2b0gJFPkLLZ_0U2R9ZsvA4F6Uqc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c9e2Y_W1dc0"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-08T07:08:13Z",
+        "channelId": "UC56TQEr_1oW3okbH-hbPetA",
+        "title": "상상을 초월하는 요즘 인도의 빈부격차 수준 ㅎㄷㄷ....",
+        "description": "#인도 #빈부격차 #갑부 #빈민층 #빈곤층 #물 #무케시암바니 #안틸리아",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c9e2Y_W1dc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c9e2Y_W1dc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c9e2Y_W1dc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c9e2Y_W1dc0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c9e2Y_W1dc0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식세포",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-08T07:08:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lPP6mKx12bWL9utMzEhDBilGC2o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mYwb39zAktQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-13T05:27:30Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "코카콜라 vs 펩시 / 그 처절한 전쟁사",
+        "description": "#코카콜라 #펩시 #콜라\n\n■ 문의 : scopepublic@naver.com\n■ Ending BGM : Feeling Alright - Gavin Luke\n\n안녕하세요 지식한입의 한입만입니다!\n본 영상 연도 표기에 오류가 있습니다\n미국 금주법 시행은 1920년이라고 표기해뒀는데\n해당 연도는 금주법이 미국 전역에 확대 적용된 연도입니다\n\n미국 금주법은 주마다 시행년도가 다른데요\n당시에도 코카콜라 사업지가 조지아주였는데\n조지아주 금주법은 보다 빠른 1886년에 시행됐고\n이를 염두에 두어 코카콜라가 몇개월 먼저\n알코올을 제거한 탄산 음료를 출시했습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mYwb39zAktQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mYwb39zAktQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mYwb39zAktQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mYwb39zAktQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mYwb39zAktQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-13T05:27:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n5LjNsRPop3ocG5-setPWWcQeN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qJ5451c7BtQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-17T07:32:40Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "장남 제끼고 이건희가 삼성을 물려받은 이유",
+        "description": "#이건희 #이재용 #삼성\n\n■ 영상을 위해 참고한 것들\n\n. 호암자전 / 이병철 (이병철 자서전)\n. 삼성을 생각한다 / 김용철 (내부 고발)\n. 묻어둔 이야기 / 이맹희 (장남 이맹희의 회고록)\n. 하고싶은 이야기 / 이맹희 (장남 이맹희의 회고록)​\n\n■비즈니스 문의 : scopepublic@naver.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qJ5451c7BtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qJ5451c7BtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qJ5451c7BtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qJ5451c7BtQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qJ5451c7BtQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-17T07:32:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2xl2Ne6ixHJvtmd-yo9OsIGIp9g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3B1Jtt7aX2g"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-16T09:20:07Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "시계의 끝판왕 파텍필립 / 롤렉스가 귀여워지는 가격",
+        "description": "#롤렉스 #시계 #파텍필립 #명품\n\n■ 문의 : scopepublic@naver.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3B1Jtt7aX2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3B1Jtt7aX2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3B1Jtt7aX2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3B1Jtt7aX2g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3B1Jtt7aX2g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-16T09:20:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rEAHSXZM0xkOTbjl1_cj_c6g6UU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZPe-PT1A8gY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-09T09:05:25Z",
+        "channelId": "UCjHn_Os5NoCXZyoXzuKth9w",
+        "title": "재벌집 막내아들은 정말 삼성그룹 창업주 이야기일까? / 소비더머니",
+        "description": "화제의 JTBC드라마 *재벌집 막내아들*을 보면서 실존 인물을 떠올리는 분들 많으신데요.\n드라마를 보면 특히 삼성그룹 이병철 창업회장을 생각나게 하는 부분이 많습니다. \n어떤 부분이 그렇고, 어떤 부분은 그렇지 않은지 비교해봤습니다.\n\n#재벌집막내아들 #삼성그룹 #순양그룹",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZPe-PT1A8gY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZPe-PT1A8gY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZPe-PT1A8gY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZPe-PT1A8gY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZPe-PT1A8gY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소비더머니",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-09T09:05:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LQOBwT8FgegnkYiVDFFx34Euhvs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0xfKX4agYzU"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-10T01:55:56Z",
+        "channelId": "UCHHaqYhO5hbqx4x3f96xJaQ",
+        "title": "점포 평균 매출이 1년에 100억...구글보다 경쟁률 높은 미국 1대치킨 - 칙필레 이야기",
+        "description": "한국에는 언제쯤..?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0xfKX4agYzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0xfKX4agYzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0xfKX4agYzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0xfKX4agYzU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0xfKX4agYzU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "머니스웨거 Money Swagger",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-10T01:55:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9IqxGqrjKLEEr4lVK5sMJVC5DTc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5YnEw1GHDyI"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-16T12:41:33Z",
+        "channelId": "UC9cCBxBAQW2CzLYeT20q49A",
+        "title": "💀 돼지고기를 안먹는 종교, 소고기를 안먹는 종교 / 💀 종교는 왜 고기를 못 먹게 할까?",
+        "description": "🏴‍☠️지식해적단 멤버십 가입\nhttps://www.youtube.com/channel/UC9cCBxBAQW2CzLYeT20q49A/join\n☠ 궁금한 거? 구독과 좋아요만 눌러주면 우리가 알아서 약탈해줄게! 🦜\n이슬람교 신자들이 돼지를 먹지 않는 것, 힌두교도들이 소를 먹지 않는 것은 유명합니다.\n최근 열리고 있는 카타르 월드컵도 관광객들이 술이나 돼지고기를 제대로 먹을 수 없어\n여러 불편한 점이 있다는 얘기가 많이 들렸죠.\n한국인에게 익숙한 종교인 불교 역시 육식을 권장하지 않으니\n종교적으로 고기를 금하는 것이 어느 정도 이해는 돼요.\n그런데 왜 이슬람교와 힌두교는 ‘특정한’ 고기만 먹지 못하게 하는 걸까요?\n지식해적단과 함께 알아봅니다.\n\n#이슬람교 #힌두교 #돼지고기 #소고기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5YnEw1GHDyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5YnEw1GHDyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5YnEw1GHDyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5YnEw1GHDyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5YnEw1GHDyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식해적단",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-16T12:41:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ExD1ynROa3wk0yvolbShanUQMew",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6sEaZQN2x1I"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-23T09:13:58Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "존경 받는 독재자라니...",
+        "description": "#싱가포르 #독재 #여행\n\n. 영상은 매주 토요일 오전 11시에 게시됩니다.\n\n. 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.\n\n. 댓글에 관한 규정\n  - 욕설, 가짜 뉴스, 링크 등이 포함된 댓글은 자동 삭제됩니다.\n  - 과도한 혐오 표현, 타인에 대한 공격은 삭제됩니다.\n\n. 비즈니스 문의 : scopepublic@naver.com\n\n. BGM : Feeling Alright - Gavin Luke",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6sEaZQN2x1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6sEaZQN2x1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6sEaZQN2x1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6sEaZQN2x1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6sEaZQN2x1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-23T09:13:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4vaF8IO1zGO9B90dU_mqA3OX3N8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rOCVOr130X8"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-22T11:28:57Z",
+        "channelId": "UCg-p3lQIqmhh7gHpyaOmOiQ",
+        "title": "영국음식이 진짜로 얼마나 맛없는지 보여주는 손흥민!! (입맛은 아직 100% 한국인🇰🇷)",
+        "description": "#SonHeungMin #손흥민 #Ad\n이번 인터뷰를 가능하게 해 주시고, 영상 제작에 후원해주신 질레트에 감사드립니다!\n최근에 저희가 어떤 축구팀의 팬이든 사랑할 수 밖에 없는 선수 - 한국의 전설 손흥민 선수님을 인터뷰할 수 있었어요. 주로 한국에서 영국 유명인분들께 한국음식을 소개했지만, 오늘은 특별히 영국에서 손흥민 선수와 만났는데요, 지난 몇 년간 영국 생활을 하신 만큼, 손흥민 선수가 영국음식을 얼마나 잘 아는지 테스트해봤답니다! 일상적인 음식부터 아주아주 특별한 음식까지요!\n\nRecently we had the chance to interview the footballer who it doesn’t matter who you support, you just can’t help but love - Korean legend Son Heung-Min. While we often introduce Korean food to British celebs in Korea, today we sat down with Sonny in the UK, and as he’s been living in the UK for a few years now, we test how well Son Heung-Min knows British food - from the every-day basics to the ultra-traditional!!\n\nHuge thanks to everyone involved in the creation of this video:\r\nWritten and Directed by Josh and Ollie\r\nProducer/Editor: Grace Park\r\nProducer/Editor/Translator: Hyemin Lim\r\nEditor: Sejun Lee\r\nTranslator: Hannah Kang",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rOCVOr130X8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rOCVOr130X8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rOCVOr130X8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rOCVOr130X8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rOCVOr130X8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "영국남자 Korean Englishman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-22T11:28:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e_gHL3smWSJ3DMKjTmVZlFIN2Pc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PGeuPJS5lIw"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-05T08:23:04Z",
+        "channelId": "UC9cCBxBAQW2CzLYeT20q49A",
+        "title": "💀 러시아가 10년마다 전쟁을 하는 근본적인 이유 / 💀 러시아 맵 리뷰",
+        "description": "☠ 궁금한 거? 구독과 좋아요만 눌러주면 우리가 알아서 약탈해줄게! 🦜\n2000년대~2020년대까지 러시아 주변에서는 항상 유혈사태가 끊이지 않고 있습니다.\n러시아는 대체 왜...? 말로 안하고 탱크부터 보내는 걸까요?\n알고 보면 이럴 수 밖에 없는 운명...\n러시아의 지정학적인 한계점을 알아봅니다!\n\n#러시아 #우크라이나 #카자흐스탄 #소련",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PGeuPJS5lIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PGeuPJS5lIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PGeuPJS5lIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PGeuPJS5lIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PGeuPJS5lIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식해적단",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-05T08:23:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q67KvAcCIvZs8dYpEjdJP3v40jY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g7JWLQpcezA"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-25T08:13:59Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "아 ㅋㅋ 일요일은 내가 짜파게티 요리사라고 ㅋㅋㅋ",
+        "description": "#농심 #짜파게티 #짜장라면\n\n. 본 영상은 농심의 유료 광고를 포함합니다.\n\n. 영상은 매주 토요일 오전 11시에 게시됩니다.\n\n. 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.\n\n. 댓글에 관한 규정\n  - 욕설, 가짜 뉴스, 링크 등이 포함된 댓글은 자동 삭제됩니다.\n  - 과도한 혐오 표현, 타인에 대한 공격은 삭제됩니다.\n\n. 비즈니스 문의 : scopepublic@naver.com\n\n. BGM : Feeling Alright - Gavin Luke",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g7JWLQpcezA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g7JWLQpcezA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g7JWLQpcezA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g7JWLQpcezA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g7JWLQpcezA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-25T08:13:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OPhHotry0mBdELlTZWG9w_OLXU8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LFBsucaVpdI"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-11T18:32:14Z",
+        "channelId": "UCcYk_KPZZMLv_bcaSAWSSxA",
+        "title": "영국 음식이 맛없는 이유 (feat : 피시 앤드 칩스). 영국에선 햄버거도 맛없다!?",
+        "description": "“영국인이 만들면 맥도널드 햄버거도 맛없다”고 흔히 말합니다. 조리법이 똑같은 패스트푸드조차 이럴 정도로 영국 음식에 대한 악평은 어제 오늘의 일이 아닙니다. 영국의 수많은 저명인사들조차 자국의 음식에 대해 자학적인 유머를 쏟아내고 있으니 영국인 스스로 굳이 이를 숨기려 하지도 않습니다. \n\n대체로 국가가 강대해지면 요리도 따라 발전하게 마련입니다. 하지만 대영제국을 세운 영국만큼은 이와는 전혀 무관한 길을 걸었습니다. \n\n어떤 특별한 사정이 있었던 걸까요? 피시 앤드 칩스는 어떤 특별함이 있길래 영국의 대표 음식, 영국의 국민 음식이 된 것일까요? 그렇다면 영국에 가면 맛있는 음식은 포기해야 하는 걸까요? \n\n\n\n* 이 영상은 최근 세계 각국의 요리가 어떻게 발명되었는지를 재미있게 풀어 쓴 앨버트 잭의 저서 ‘미식가의 어원 사전’을 출간한 윌북 출판사의 지원으로 제작되었습니다. \n\n* 도서 링크\n  알라딘 https://bit.ly/33d6OEA\n  교보 https://bit.ly/3r82r6r\n  예스24 https://bit.ly/3ewwEG4\n\n#영국식사 #영국음식문화 #영국대표음식",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LFBsucaVpdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LFBsucaVpdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LFBsucaVpdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LFBsucaVpdI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "지식 브런치",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-11T18:32:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i4hVwDkgUyFoDqpjM6K4Ij2-AJY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V8o2FnPhnho"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-10T08:24:26Z",
+        "channelId": "UC9cCBxBAQW2CzLYeT20q49A",
+        "title": "💀 BBC 선정 위대한 영국인🇬🇧 9위… 바다 위의 인간흉기 ‘넬슨 제독’! / 💀 영국의 이순신 ㅇㅈ합니다",
+        "description": "🏴‍☠️지식해적단 멤버십 가입\nhttps://www.youtube.com/channel/UC9cCBxBAQW2CzLYeT20q49A/join\n☠ 궁금한 거? 구독과 좋아요만 눌러주면 우리가 알아서 약탈해줄게! 🦜\n흔히 해전 역사상 가장 위대한 명장을 꼽으라고 하면 무조건 포함되는 인물이 있습니다.\n그리고 그 중 최고는 뭐니뭐니해도 ‘호레이쇼 넬슨’ 제독!\n세계의 해양 패권을 쥐락펴락했던 영국이니만큼, 넬슨 제독의 활약상과 후세에 미친 영향은 압도적이죠.\n한국에 이순신이 있다면 영국에는 넬슨이 있다…\n나폴레옹 전쟁기, 조국 영국을 구원한 넬슨 제독의 활약상을 알아봅니다.\n\n#넬슨제독 #트라팔가르해전 #나폴레옹전쟁",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V8o2FnPhnho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V8o2FnPhnho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V8o2FnPhnho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V8o2FnPhnho/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V8o2FnPhnho/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식해적단",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-10T08:24:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5jGEY2YKoxUeCOJPAoYzu_NYRe8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "klZNqI93rtc"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-28T08:39:25Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "딱 말해요, 나 우산 챙겨요 말아요?",
+        "description": "#일기예보 #기상청 #날씨\n\n. 영상은 매주 토요일 오전 11시에 게시됩니다.\n\n. 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.\n\n. 댓글에 관한 규정\n  - 욕설, 가짜 뉴스, 링크 등이 포함된 댓글은 자동 삭제됩니다.\n  - 과도한 혐오 표현, 타인에 대한 공격은 삭제됩니다.\n\n. 비즈니스 문의 : scopepublic@naver.com\n\n. BGM : Feeling Alright - Gavin Luke",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/klZNqI93rtc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/klZNqI93rtc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/klZNqI93rtc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/klZNqI93rtc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/klZNqI93rtc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-28T08:39:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9lhGKFtQEYx7uEBUH36cU2nK6XQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rUcujf9l8hk"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-15T08:54:07Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "인도란... 어떤 곳일까?",
+        "description": "#인도 #india #오토바이 \n\n. 영상은 매주 토요일 오전 11시에 게시됩니다.\n\n. 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.\n\n. 댓글에 관한 규정\n  - 욕설, 가짜 뉴스, 링크 등이 포함된 댓글은 자동 삭제됩니다.\n  - 과도한 혐오 표현, 타인에 대한 공격은 삭제됩니다.\n\n. 비즈니스 문의 : scopepublic@naver.com\n\n. BGM : Feeling Alright - Gavin Luke",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rUcujf9l8hk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rUcujf9l8hk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rUcujf9l8hk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rUcujf9l8hk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rUcujf9l8hk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-15T08:54:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o4cEdOpAKwX8dCsv8yVsS6T0N_E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dEAh-YYaaFw"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-09T06:57:39Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "영국은 왜 굳이 EU에서 나와서 고생을 할까 / 브렉시트",
+        "description": "#브렉시트 #영국 #난민\n\n. 업로드는 매주 토요일 오전 11시에! 늦으면 저녁에 됩니다\n. 혐오 표현, 욕설, 타인에 대한 공격 등 악플은 삭제됩니다\n. 교육 및 학업 목적으로는 영상을 사용하셔도 좋습니다\n-----------------------------------------------------------------------------------\n. 비즈니스 문의 : scopepublic@naver.com\n. BGM : Feeling Alright - Gavin Luke",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dEAh-YYaaFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dEAh-YYaaFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dEAh-YYaaFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dEAh-YYaaFw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dEAh-YYaaFw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-09T06:57:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A8PaPONgRi-kU2hoB3My44XX-IE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vw4SFFp9vmQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-17T03:23:02Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "국뽕없이 보는 IMF 외환위기 사태",
+        "description": "#IMF #외환위기 #선진국\n\n. 업로드는 매주 토요일 오전 11시 혹은 저녁에 됩니다\n. 혐오, 욕설 등 악플은 삭제 됩니다\n. 문의 : scopepublic@naver.com\n. BGM : Feeling Alright - Gavin Luke",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vw4SFFp9vmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vw4SFFp9vmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vw4SFFp9vmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vw4SFFp9vmQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vw4SFFp9vmQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-17T03:23:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AbABD2I2l6s6Lm5jgiphYh7lCiw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WTgHTMP3_K0"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-11T04:50:46Z",
+        "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+        "title": "출산율 반만 떼주라",
+        "description": "#이집트 #살라 #월드컵 \n\n. 영상은 매주 토요일 오전 11시 혹은 토요일 저녁에 게시됩니다.\n\n. 교육 또는 학업 목적으로는 영상을 자유롭게 사용하셔도 좋습니다.\n\n. 댓글에 관한 규정\n  - 욕설, 가짜 뉴스 유포 등은 유튜브 정책에 의해 자동 삭제됩니다.\n  - 과도한 혐오 표현, 타인에 대한 공격은 삭제됩니다.\n\n. 비즈니스 문의 : scopepublic@naver.com\n  \neling Alright - Gavin Luke",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WTgHTMP3_K0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WTgHTMP3_K0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WTgHTMP3_K0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WTgHTMP3_K0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WTgHTMP3_K0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "지식한입",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-11T04:50:46Z"
+      }
+    }
+  ]
+}

@@ -2,6 +2,8 @@ import React from 'react';
 import './App.css';
 import { Outlet } from 'react-router-dom';
 import SearchHeader from './components/SearchHeader';
+import { QueryClientProvider } from '@tanstack/react-query';
+import { QueryClient } from '@tanstack/query-core';
 /**
  * <APIS>
  *
@@ -12,11 +14,15 @@ import SearchHeader from './components/SearchHeader';
  *
  */
 
+const queryClient = new QueryClient();
+
 function App(): JSX.Element {
     return (
         <>
             <SearchHeader />
-            <Outlet />
+            <QueryClientProvider client={queryClient}>
+                <Outlet />
+            </QueryClientProvider>
         </>
     );
 }

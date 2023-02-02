@@ -1,0 +1,1873 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "cKpG9Yj1-b-nR4W4i43DS_M5eIg",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "PCP8teHN4xbKEQj4FziPNu_Fcao",
+      "id": "8zIf0XvoL9Y",
+      "snippet": {
+        "publishedAt": "2022-12-16T14:00:08Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "Barbie | Teaser Trailer",
+        "description": "#BarbieTheMovie, from director Greta Gerwig, only in theatres Summer 2023",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8zIf0XvoL9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8zIf0XvoL9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8zIf0XvoL9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8zIf0XvoL9Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8zIf0XvoL9Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "tags": [
+          "Coming Soon",
+          "Film",
+          "Film Trailer",
+          "Film Warner",
+          "Movie",
+          "Official Trailer",
+          "Trailer",
+          "Trailer 2022",
+          "WB",
+          "Warner",
+          "Warner Bros",
+          "Warner Brothers",
+          "Warner Media",
+          "barbie",
+          "barbieandken",
+          "barbiemovie",
+          "barbiethemovie",
+          "gretagerwig",
+          "margotrobbie",
+          "ryangosling"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Barbie | Teaser Trailer",
+          "description": "#BarbieTheMovie, from director Greta Gerwig, only in theatres Summer 2023"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2149498",
+        "likeCount": "76528",
+        "favoriteCount": "0",
+        "commentCount": "4515"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UMES79_v9KqdinpdfgqIR0J2ANU",
+      "id": "5GhhVHpPR_M",
+      "snippet": {
+        "publishedAt": "2022-12-16T18:00:14Z",
+        "channelId": "UC3lBXcrKFnFAFkfVk5WuKcQ",
+        "title": "Kendrick Lamar - Count Me Out",
+        "description": "Kendrick Lamar “Count Me Out” \nDirected by Dave Free & Kendrick Lamar\n \nProduction Company: pgLang / project3\nExecutive Producers: Kendrick Lamar, Dave Free\nProducers: Jason Baum, Jamie Rabineau\nDirector of Photography: Adam Newport-Berra\nAdditional Photography: Christopher Ripley\n1st AD: Kenneth Taylor\nProduction Designer: Eric Hersey\nWardrobe Stylist: Taylor McNeill\nAdditional Wardrobe Styling: Shannon Stokes\nChoreographer: Charm La’Donna\nStunts: Chris Gann\nGrooming: Jenn Hanching\nMakeup: Emily Cheng\nHair Stylist: Nikki Nelms\nHair Stylist: Khristien “Khristn” Ray\nBarber: Victor Arellano\nMakeup Artist / Helen Mirren: Jo Strettell\nHair Stylist / Helen Mirren: Richard Collins\nWardrobe Stylist / Helen Mirren: Lee Harris\nColorist: Mikey Rossiter\nVFX: Tryptyc\nSound Design: Brandon Loulias\nEditor: Neal Farmer\nCommissioner: Michelle An\n \nSpecial Thanks: \nDame Helen Mirren\nJack Dorsey \nVivi Nevo\n \nThank you to our team at pgLang.\n \nKendrick Lamar “Mr. Morale & The Big Steppers” is available now:\nhttps://KendrickLamar.lnk.to/MrMorale\nhttps://oklama.com\nhttps://www.instagram.com/kendricklamar\nhttps://twitter.com/kendricklamar\nhttps://www.facebook.com/kendricklamar\n \n#KendrickLamar #CountMeOut #MrMorale #TheBigSteppers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5GhhVHpPR_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5GhhVHpPR_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5GhhVHpPR_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5GhhVHpPR_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5GhhVHpPR_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kendrick Lamar",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Kendrick Lamar - Count Me Out",
+          "description": "Kendrick Lamar “Count Me Out” \nDirected by Dave Free & Kendrick Lamar\n \nProduction Company: pgLang / project3\nExecutive Producers: Kendrick Lamar, Dave Free\nProducers: Jason Baum, Jamie Rabineau\nDirector of Photography: Adam Newport-Berra\nAdditional Photography: Christopher Ripley\n1st AD: Kenneth Taylor\nProduction Designer: Eric Hersey\nWardrobe Stylist: Taylor McNeill\nAdditional Wardrobe Styling: Shannon Stokes\nChoreographer: Charm La’Donna\nStunts: Chris Gann\nGrooming: Jenn Hanching\nMakeup: Emily Cheng\nHair Stylist: Nikki Nelms\nHair Stylist: Khristien “Khristn” Ray\nBarber: Victor Arellano\nMakeup Artist / Helen Mirren: Jo Strettell\nHair Stylist / Helen Mirren: Richard Collins\nWardrobe Stylist / Helen Mirren: Lee Harris\nColorist: Mikey Rossiter\nVFX: Tryptyc\nSound Design: Brandon Loulias\nEditor: Neal Farmer\nCommissioner: Michelle An\n \nSpecial Thanks: \nDame Helen Mirren\nJack Dorsey \nVivi Nevo\n \nThank you to our team at pgLang.\n \nKendrick Lamar “Mr. Morale & The Big Steppers” is available now:\nhttps://KendrickLamar.lnk.to/MrMorale\nhttps://oklama.com\nhttps://www.instagram.com/kendricklamar\nhttps://twitter.com/kendricklamar\nhttps://www.facebook.com/kendricklamar\n \n#KendrickLamar #CountMeOut #MrMorale #TheBigSteppers"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "975597",
+        "likeCount": "151458",
+        "favoriteCount": "0",
+        "commentCount": "3876"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "s2shm6FXbRTXwfpS0h6dk1FC_Go",
+      "id": "7_VMGv2kKEI",
+      "snippet": {
+        "publishedAt": "2022-12-16T10:27:39Z",
+        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
+        "title": "An All-New Pokémon Series Is Coming",
+        "description": "A brand-new Pokémon series has been announced! \n\nJoin two new characters and three Paldea starter Pokémon as they adventure through the exciting world of Pokémon! Plus, commemorate Ash’s journey with a collection of special episodes concluding Pokémon Ultimate Journeys: The Series. \n\nComing soon in 2023 and beyond!\n\nOfficial Site: https://www.pokemon.com\nShop: http://www.pokemoncenter.com\nFacebook: http://www.facebook.com/Pokemon\nTwitter: http://www.twitter.com/Pokemon\nInstagram: http://www.instagram.com/pokemon\nTikTok: https://www.tiktok.com/@pokemonofficial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7_VMGv2kKEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7_VMGv2kKEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7_VMGv2kKEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7_VMGv2kKEI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7_VMGv2kKEI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Official Pokémon YouTube channel",
+        "tags": [
+          "AniPoke",
+          "Pokémon anime",
+          "Pokémon animation",
+          "Sprigatito",
+          "Quaxly",
+          "Fuecoco",
+          "Paldea anime",
+          "Paldea",
+          "new Pokémon series",
+          "new Pokemon animation",
+          "Pokémon Ultimate Journeys: The Series",
+          "Ash Ketchum",
+          "Pokémon",
+          "anime",
+          "animation",
+          "pokaman",
+          "pokiman",
+          "pokimon",
+          "pokamon",
+          "pokeman",
+          "TV",
+          "show"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "An All-New Pokémon Series Is Coming",
+          "description": "A brand-new Pokémon series has been announced! \n\nJoin two new characters and three Paldea starter Pokémon as they adventure through the exciting world of Pokémon! Plus, commemorate Ash’s journey with a collection of special episodes concluding Pokémon Ultimate Journeys: The Series. \n\nComing soon in 2023 and beyond!\n\nOfficial Site: https://www.pokemon.com\nShop: http://www.pokemoncenter.com\nFacebook: http://www.facebook.com/Pokemon\nTwitter: http://www.twitter.com/Pokemon\nInstagram: http://www.instagram.com/pokemon\nTikTok: https://www.tiktok.com/@pokemonofficial"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1098773",
+        "likeCount": "54619",
+        "favoriteCount": "0",
+        "commentCount": "8630"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "k1wjDgU_IjXIu_BwYnCQ4y2AE9w",
+      "id": "AQ99iVo_QC4",
+      "snippet": {
+        "publishedAt": "2022-12-16T08:00:06Z",
+        "channelId": "UCD1Em4q90ZUK2R5HKesszJg",
+        "title": "Santa Hog Rider's Workshop | A Clashmas Special",
+        "description": "Step inside Santa Hog Rider's Workshop and see where the magic happens ✨🎁 😌\n\nHo-Ho-Hooog Riiiider!\n\n\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. http://supr.cl/ThisArmy\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttp://www.supercell.net/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttp://www.supercell.net/parents\n\n#clash #clashofclans #clashroyale",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AQ99iVo_QC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AQ99iVo_QC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AQ99iVo_QC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AQ99iVo_QC4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AQ99iVo_QC4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Clash of Clans",
+        "tags": [
+          "clash of clans",
+          "COC",
+          "Clash of Clans Gameplay",
+          "Clash of Clans Strategy",
+          "Clash of Clans Animation",
+          "Clash of Clans Commercial",
+          "Clash of Clans Attacks",
+          "Clash of Clans Town Hall",
+          "Hog Rider",
+          "PEKKA",
+          "Clan Wars",
+          "season challenges",
+          "clan war leagues",
+          "clash on",
+          "clan game",
+          "clan games",
+          "clash-a-rama",
+          "clasharama",
+          "christmas movie",
+          "santa's workshop movie",
+          "santas workshop",
+          "clashmas",
+          "hog rider",
+          "goblins",
+          "vintage animation",
+          "vintage cartoon",
+          "retro cartoon",
+          "coc film"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Santa Hog Rider's Workshop | A Clashmas Special",
+          "description": "Step inside Santa Hog Rider's Workshop and see where the magic happens ✨🎁 😌\n\nHo-Ho-Hooog Riiiider!\n\n\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. http://supr.cl/ThisArmy\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttp://www.supercell.net/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttp://www.supercell.net/parents\n\n#clash #clashofclans #clashroyale"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1827070",
+        "likeCount": "90672",
+        "favoriteCount": "0",
+        "commentCount": "1862"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NIV132RHRfTPbkTla3mVGCj1rjw",
+      "id": "LcB8FAGOcGs",
+      "snippet": {
+        "publishedAt": "2022-12-15T17:00:10Z",
+        "channelId": "UCIsbLox_y9dCIMLd8tdC6qg",
+        "title": "Kourtney and Khloé Kardashian Take Lie Detector Tests | Vanity Fair",
+        "description": "Kourtney Kardashian Barker and Khloé Kardashian each take Vanity Fair's infamous lie detector test. Why won't Khloé let her daughter True sleep over Kourtney's house? Does Khloé ever judge what Kourtney posts on Instagram? Does Kourtney regret not inviting her famous siblings to her Las Vegas elopement with Travis Barker? Would Kourtney accept business advice from Jeff Bezos for her new Lemme Sleep gummies?\r\n\r\nDirector: Funmi Sunmonu \r\nDirector of Photography: Grant Bell\r\nEditor: Jordan Calig \r\nCelebrity Talent: Kourtney Kardashian Barker and Khloé Kardashian \r\nLine Producer: Romeeka Powell\r\nAssociate Producers: Emebeit Beyene\r\nProduction Managers: Andressa Pelachi, Peter Brunette\r\nProduction Coordinator: Carolina Wachockier\r\nCamera Operator: Lucas Vilicich\r\nTalent Booker: Director of Video Talent, Lauren Mendoza\r\nAudio: Kari Barber\r\nSet Designer: Leah Waters \r\nVoiceover: Efrat Kashai\r\nPost Production Supervisor: Nicholas Ascanio\r\nPost Production Coordinator: Jovan James\r\nSupervising Editor: Kameron Key\r\nAssistant Editor: Ben Harowitz\r\nProduction Assistants: Gee Depratt, Devin Beckwith\n\nStill haven’t subscribed to Vanity Fair on YouTube? ►► http://bit.ly/2z6Ya9M\r\n\r\nWant to stay in the know? Subscribe to Vanity Fair Magazine and be exquisitely informed ►► http://vntyfr.com/2RuQGW2\r\n\r\nABOUT VANITY FAIR\r\nArts and entertainment, business and media, politics, and world affairs—Vanity Fair’s features and exclusive videos capture the people, places, and ideas that define modern culture.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LcB8FAGOcGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LcB8FAGOcGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LcB8FAGOcGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LcB8FAGOcGs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LcB8FAGOcGs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vanity Fair",
+        "tags": [
+          "celebrity",
+          "kardashian",
+          "kardashians",
+          "khloe kardashian",
+          "khloe kardashian interview",
+          "khloe kardashian lies",
+          "khloe kardashian vanity fair",
+          "kourtney",
+          "kourtney and khloe",
+          "kourtney and khloe kardashian",
+          "kourtney and khloe take",
+          "kourtney and travis",
+          "kourtney kardashian",
+          "kourtney kardashian and khloe kardashian",
+          "kourtney kardashian interview",
+          "kourtney kardashian lies",
+          "kourtney kardashian travis barker",
+          "kourtney kardashian vanity fair",
+          "kourtney khloe",
+          "travis barker",
+          "vanity fair"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Kourtney and Khloé Kardashian Take Lie Detector Tests | Vanity Fair",
+          "description": "Kourtney Kardashian Barker and Khloé Kardashian each take Vanity Fair's infamous lie detector test. Why won't Khloé let her daughter True sleep over Kourtney's house? Does Khloé ever judge what Kourtney posts on Instagram? Does Kourtney regret not inviting her famous siblings to her Las Vegas elopement with Travis Barker? Would Kourtney accept business advice from Jeff Bezos for her new Lemme Sleep gummies?\r\n\r\nDirector: Funmi Sunmonu \r\nDirector of Photography: Grant Bell\r\nEditor: Jordan Calig \r\nCelebrity Talent: Kourtney Kardashian Barker and Khloé Kardashian \r\nLine Producer: Romeeka Powell\r\nAssociate Producers: Emebeit Beyene\r\nProduction Managers: Andressa Pelachi, Peter Brunette\r\nProduction Coordinator: Carolina Wachockier\r\nCamera Operator: Lucas Vilicich\r\nTalent Booker: Director of Video Talent, Lauren Mendoza\r\nAudio: Kari Barber\r\nSet Designer: Leah Waters \r\nVoiceover: Efrat Kashai\r\nPost Production Supervisor: Nicholas Ascanio\r\nPost Production Coordinator: Jovan James\r\nSupervising Editor: Kameron Key\r\nAssistant Editor: Ben Harowitz\r\nProduction Assistants: Gee Depratt, Devin Beckwith\n\nStill haven’t subscribed to Vanity Fair on YouTube? ►► http://bit.ly/2z6Ya9M\r\n\r\nWant to stay in the know? Subscribe to Vanity Fair Magazine and be exquisitely informed ►► http://vntyfr.com/2RuQGW2\r\n\r\nABOUT VANITY FAIR\r\nArts and entertainment, business and media, politics, and world affairs—Vanity Fair’s features and exclusive videos capture the people, places, and ideas that define modern culture."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT13M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "653577",
+        "likeCount": "22976",
+        "favoriteCount": "0",
+        "commentCount": "1060"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "h5GvQO-HTkY-RJ6Z_ZWztL72-0c",
+      "id": "bEQzYtSYKAo",
+      "snippet": {
+        "publishedAt": "2022-12-15T19:35:40Z",
+        "channelId": "UC5UYMeKfZbFYnLHzoTJB1xA",
+        "title": "Every Disney Animation Movie Ranked",
+        "description": "Head to http://squarespace.com/schaffrillas to save 10% off your first purchase of a website or domain. Thanks to Squarespace for sponsoring this video!\n\nSchaff watches a lot of Disney movies! This vid took a year to make aaaaaaaaaaa\n\nEditor's Channels:\nLavender Whale: https://www.youtube.com/c/LavenderWhale\nMordo: https://www.youtube.com/channel/UCYAs...\nVillagerWolf: https://www.youtube.com/@VillagerWolf527\nGoop: https://www.youtube.com/c/GoopVideos\nCitizen HAL: https://www.youtube.com/channel/UCAhtjbcxLtZtdMpVV7hhOIA\nC1em: https://www.youtube.com/channel/UCiCvqnMLybGCX40vU9AEy5g\nSpaceTree: https://www.youtube.com/c/SpaceTreeStudios\nShooting Films: https://www.youtube.com/user/TheSonicAndMario100\nOfficial-PSASD: https://www.youtube.com/@OfficialPSASD\n\nPatreon: https://www.patreon.com/Schaffrillas\nTwitter: https://twitter.com/Schaffrillas\nRedbubble: https://www.redbubble.com/people/scha......\nReddit: https://www.reddit.com/r/Schaffrillas...\n\nEsteemed $5+ Patrons:\naheaney15\nAiden Mcgillicuddy\nAmaru Dejesus\nAlexandra\nAndre Gutierrez\nAndrew Young\nAnna Chanthaphavong\nAshley Forrest\nBATMAN\nBoolobo\nCG Lemonade\nCharlotte M\nChildish Memphino\nClarissa Wee\nClownDuck\nCole Jackson\nCrimson Court\nDaniel Goldhorn\nDanmccould\nDelaina Rachelle\nDman990099\nDr Noe Context\nEdgar Gutierrez\nEmily Allen\nEric Banks\nFlan\nFrancis Sheepie\nGabi Christie\nGabriel Vega Barreto\nGavin T360\nHankshark\nHarvey Mulvihill\nIan Seebach\nJacob Baum\nJacob LaBossiere\nJake Albert\nJake G\nJonathan Kermanian\nJoseph\nJuan-the-Dingus\nJustin Gonzales\nKim Trakartwichit\nKingsDay\nLeif Bradshaw\nLogan McQuaid\nMatt Fernandes\nMichael David Rose\nMichael Thomas\nMigs\nMilky\nMilosz Kluski\nMirrorWqve\nNessie\nNight Man52\nNoneLovesMe\nOceanechoes\nOlivia Mendel\nOsbers Gaming\nPeri\nPeter Hollens\nPierre Desbrieres\nPinkiePotPie\nPrismabunny\nPut 9-Volt in Smash Bros. Please\nQuetzal the Snek\nrEactor\nReagan DeFriece\nRebel Friend\nRed Mustached Alien\nRocco Damiano\nRoscoesDad\nRyland Tews\nSassy\nScott St Jean\nSeth Howell\nSoloco\nSuarez\nSugargae\nSuperJimmy978\nTailored Muffin\nTeasel\nThat Guy Named Rai\nThe GAG Reflex\nThe TARDIS Pig/TC\nTom\nToxic shock\nTyler Rumbold\nUncultured Swine\nVellum Tony\nVintage\nVolianer\nWafflegamr\nWinny\nYINSED",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bEQzYtSYKAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bEQzYtSYKAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bEQzYtSYKAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bEQzYtSYKAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bEQzYtSYKAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Schaffrillas Productions",
+        "tags": [
+          "Schaffrillas Productions",
+          "The Lion King",
+          "Beauty and the Beast",
+          "Disney",
+          "Hercules",
+          "Mulan",
+          "Aladdin",
+          "Pocahontas",
+          "The Little Mermaid",
+          "Frozen",
+          "Tangled",
+          "Moana",
+          "Encanto",
+          "The Princess and the Frog",
+          "Dumbo",
+          "Pinocchio",
+          "Alice in Wonderland",
+          "The Hunchback of Notre Dame",
+          "Winnie the Pooh",
+          "Tarzan",
+          "Wreck-It Ralph",
+          "Snow White",
+          "Sleeping Beauty",
+          "101 Dalmatians",
+          "Cinderella",
+          "Chicken Little",
+          "The Emperor's New Groove",
+          "Fantasia"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Every Disney Animation Movie Ranked",
+          "description": "Head to http://squarespace.com/schaffrillas to save 10% off your first purchase of a website or domain. Thanks to Squarespace for sponsoring this video!\n\nSchaff watches a lot of Disney movies! This vid took a year to make aaaaaaaaaaa\n\nEditor's Channels:\nLavender Whale: https://www.youtube.com/c/LavenderWhale\nMordo: https://www.youtube.com/channel/UCYAs...\nVillagerWolf: https://www.youtube.com/@VillagerWolf527\nGoop: https://www.youtube.com/c/GoopVideos\nCitizen HAL: https://www.youtube.com/channel/UCAhtjbcxLtZtdMpVV7hhOIA\nC1em: https://www.youtube.com/channel/UCiCvqnMLybGCX40vU9AEy5g\nSpaceTree: https://www.youtube.com/c/SpaceTreeStudios\nShooting Films: https://www.youtube.com/user/TheSonicAndMario100\nOfficial-PSASD: https://www.youtube.com/@OfficialPSASD\n\nPatreon: https://www.patreon.com/Schaffrillas\nTwitter: https://twitter.com/Schaffrillas\nRedbubble: https://www.redbubble.com/people/scha......\nReddit: https://www.reddit.com/r/Schaffrillas...\n\nEsteemed $5+ Patrons:\naheaney15\nAiden Mcgillicuddy\nAmaru Dejesus\nAlexandra\nAndre Gutierrez\nAndrew Young\nAnna Chanthaphavong\nAshley Forrest\nBATMAN\nBoolobo\nCG Lemonade\nCharlotte M\nChildish Memphino\nClarissa Wee\nClownDuck\nCole Jackson\nCrimson Court\nDaniel Goldhorn\nDanmccould\nDelaina Rachelle\nDman990099\nDr Noe Context\nEdgar Gutierrez\nEmily Allen\nEric Banks\nFlan\nFrancis Sheepie\nGabi Christie\nGabriel Vega Barreto\nGavin T360\nHankshark\nHarvey Mulvihill\nIan Seebach\nJacob Baum\nJacob LaBossiere\nJake Albert\nJake G\nJonathan Kermanian\nJoseph\nJuan-the-Dingus\nJustin Gonzales\nKim Trakartwichit\nKingsDay\nLeif Bradshaw\nLogan McQuaid\nMatt Fernandes\nMichael David Rose\nMichael Thomas\nMigs\nMilky\nMilosz Kluski\nMirrorWqve\nNessie\nNight Man52\nNoneLovesMe\nOceanechoes\nOlivia Mendel\nOsbers Gaming\nPeri\nPeter Hollens\nPierre Desbrieres\nPinkiePotPie\nPrismabunny\nPut 9-Volt in Smash Bros. Please\nQuetzal the Snek\nrEactor\nReagan DeFriece\nRebel Friend\nRed Mustached Alien\nRocco Damiano\nRoscoesDad\nRyland Tews\nSassy\nScott St Jean\nSeth Howell\nSoloco\nSuarez\nSugargae\nSuperJimmy978\nTailored Muffin\nTeasel\nThat Guy Named Rai\nThe GAG Reflex\nThe TARDIS Pig/TC\nTom\nToxic shock\nTyler Rumbold\nUncultured Swine\nVellum Tony\nVintage\nVolianer\nWafflegamr\nWinny\nYINSED"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H14M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "953076",
+        "likeCount": "55198",
+        "favoriteCount": "0",
+        "commentCount": "7772"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wK3S5nzA2Ht_p26oa85aokEysMA",
+      "id": "NO_ZdJjMtdI",
+      "snippet": {
+        "publishedAt": "2022-12-15T17:00:41Z",
+        "channelId": "UC0BletW9phE4xHFM44q4qKA",
+        "title": "Juice WRLD - Face 2 Face (Official Music Video)",
+        "description": "Juice WRLD \"Face 2 Face\" is available now: https://JuiceWRLD.lnk.to/Face2Face\nDirected & Edited by Steve Cannon\n\nProducer: Nolan Riddle\nVFX: BlackhatVFX\nProduced by Grade A Films\n\nSubscribe to the official Juice WRLD channel for new music, updates and behind the scenes footage click here: http://bit.ly/Sub-to-JuiceWrld\n\nCheck out more Juice WRLD here:\nMerch - https://999club.com/\nSoundcloud - https://soundcloud.com/uiceheidd\nTwitter - https://twitter.com/JuiceWorlddd\nInsta - https://www.instagram.com/juicewrld999/\n \n#JuiceWRLD #Face2Face #999",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NO_ZdJjMtdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NO_ZdJjMtdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NO_ZdJjMtdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NO_ZdJjMtdI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NO_ZdJjMtdI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Juice WRLD",
+        "tags": ["JuiceWRLD", "juiceworld", "juice world", "juice wrld", "999"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Juice WRLD - Face 2 Face (Official Music Video)",
+          "description": "Juice WRLD \"Face 2 Face\" is available now: https://JuiceWRLD.lnk.to/Face2Face\nDirected & Edited by Steve Cannon\n\nProducer: Nolan Riddle\nVFX: BlackhatVFX\nProduced by Grade A Films\n\nSubscribe to the official Juice WRLD channel for new music, updates and behind the scenes footage click here: http://bit.ly/Sub-to-JuiceWrld\n\nCheck out more Juice WRLD here:\nMerch - https://999club.com/\nSoundcloud - https://soundcloud.com/uiceheidd\nTwitter - https://twitter.com/JuiceWorlddd\nInsta - https://www.instagram.com/juicewrld999/\n \n#JuiceWRLD #Face2Face #999"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": ["BY", "RU"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1526584",
+        "likeCount": "159824",
+        "favoriteCount": "0",
+        "commentCount": "12188"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RW3UZXEDQemfuBjF9eZOj68I6DQ",
+      "id": "SwDw7AM51F8",
+      "snippet": {
+        "publishedAt": "2022-12-15T18:19:45Z",
+        "channelId": "UC495kynFX55dE0iorwV3RKQ",
+        "title": "Stranded 100 Hours on a Homemade Raft - Day 3",
+        "description": "Today is day 3 of surviving on a homemade raft for 100 hours. In this episode we got a huge shipment of wood to build a tiny house on our mega raft. We also attempted more fishing with the need for food getting more and more pressing. After today we will have a home and a warm place to sleep outside of the elements. Thank you for all of your support so far! This challenge is to support ZOE, so any donations are greatly appreciated!\n\nSHOP OUR MERCH HERE:\nhttps://www.bonfire.com/store/dangie-bros/\n\nFOLLOW DANGIE BROS ON OUR SOCIAL MEDIAS (@TheDangieBros):\n\nFacebook:\nhttps://www.facebook.com/DangieBrosVideos/\n\nInstagram:\nhttps://www.instagram.com/thedangiebros/?hl=en\n\nFOLLOW OUR PERSONAL INSTAGRAMS:\n\nFollow Chris on Instagram: (@christopherryan98)\nhttps://www.instagram.com/christopherryan98/?hl=en\n\nFollow Jeff on Instagram: (@jeffufahh)\nhttps://www.instagram.com/jeffufahh/?hl=en",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SwDw7AM51F8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SwDw7AM51F8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SwDw7AM51F8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SwDw7AM51F8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SwDw7AM51F8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dangie Bros",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Stranded 100 Hours on a Homemade Raft - Day 3",
+          "description": "Today is day 3 of surviving on a homemade raft for 100 hours. In this episode we got a huge shipment of wood to build a tiny house on our mega raft. We also attempted more fishing with the need for food getting more and more pressing. After today we will have a home and a warm place to sleep outside of the elements. Thank you for all of your support so far! This challenge is to support ZOE, so any donations are greatly appreciated!\n\nSHOP OUR MERCH HERE:\nhttps://www.bonfire.com/store/dangie-bros/\n\nFOLLOW DANGIE BROS ON OUR SOCIAL MEDIAS (@TheDangieBros):\n\nFacebook:\nhttps://www.facebook.com/DangieBrosVideos/\n\nInstagram:\nhttps://www.instagram.com/thedangiebros/?hl=en\n\nFOLLOW OUR PERSONAL INSTAGRAMS:\n\nFollow Chris on Instagram: (@christopherryan98)\nhttps://www.instagram.com/christopherryan98/?hl=en\n\nFollow Jeff on Instagram: (@jeffufahh)\nhttps://www.instagram.com/jeffufahh/?hl=en"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1044946",
+        "likeCount": "27852",
+        "favoriteCount": "0",
+        "commentCount": "1339"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6MKejRCEXnwLWKn4aBHvzgFEH4o",
+      "id": "X3dMeuHtDYg",
+      "snippet": {
+        "publishedAt": "2022-12-16T03:10:41Z",
+        "channelId": "UCRlEFn0L2G_DktbyvN0AZ5A",
+        "title": "Minecraft, But I Can NEVER Leave This Square (#6)",
+        "description": "Today I played Minecraft but I can NEVER leave this square! In this Minecraft Lets Play, the world GROWS every episode by an increasing amount. Today is episode 6, so the border will expand 6 blocks in every direction! \n\nSUBSCRIBE TO SEE HOW BIG THIS WORLD GETS!\n▬▬▬▬▬▬▬▬▬▬▬▬▬ \n★ FOLLOW ME ★\n▸  Second Channel: https://youtube.com/c/Wad2ee\n▸  Twitter: https://twitter.com/WadZeeYT​​\n▸  Instagram: https://www.instagram.com/wadzeeyt/​​\n▸  Twitch: https://twitch.tv/wadzee​​\n▬▬▬▬▬▬▬▬▬▬▬▬▬ \n▸ Email for business enquiries:\n📧 - wadzeeyt@gmail.com\n▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n★ SERIES PLAYLIST ★\nhttps://www.youtube.com/watch?v=S6yBK5LcO68&list=PLXYjxAo4KISKFI4jtxVV-5XF2siI88tBF&index=3\n\n★WATCH MORE WADZEE VIDEOS! ★\n\n▸ Minecraft, But I Can NEVER Leave This Box (#5)\nhttps://www.youtube.com/watch?v=smr_bx7mn0o\n\n▸ Minecraft, But I Can't Leave This Chunk (#1)\nhttps://www.youtube.com/watch?v=S6yBK5LcO68&t=723s\n\nIRON FARM TUTORIAL:\nhttps://www.youtube.com/watch?v=zLWNpjJtQNQ\n\n♫ Music Credits:\nhttps://www.youtube.com/@ludandschlattsmusicalempor6746\n\nAny music used by Kevin Macleod is licensed under a Creative Commons Attribution 4.0 licence. https://creativecommons.org/licenses/....\n\nSource: http://incompetech.com/music/royalty-....\n\nArtist: http://incompetech.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X3dMeuHtDYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X3dMeuHtDYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X3dMeuHtDYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X3dMeuHtDYg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X3dMeuHtDYg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WadZee",
+        "tags": [
+          "Minecraft",
+          "WadZee",
+          "Hardcore",
+          "WadZee Hardcore",
+          "WadZee Minecraft",
+          "Minecraft but I cant leave this circle",
+          "Minecraft but i cant leave this chunk",
+          "minecraft one chunk",
+          "Minecraft but the world slowly grows",
+          "Minecraft Expanding World",
+          "WadZee Expanding World Series",
+          "WadZee One Chunk",
+          "One Chunk",
+          "I survived 100 days in one chunk",
+          "minecraft but the world expands",
+          "wadzee expanding world series",
+          "minecraft but i can never leave this box",
+          "minecraft but i cant leave the square"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "Minecraft, But I Can NEVER Leave This Square (#6)",
+          "description": "Today I played Minecraft but I can NEVER leave this square! In this Minecraft Lets Play, the world GROWS every episode by an increasing amount. Today is episode 6, so the border will expand 6 blocks in every direction! \n\nSUBSCRIBE TO SEE HOW BIG THIS WORLD GETS!\n▬▬▬▬▬▬▬▬▬▬▬▬▬ \n★ FOLLOW ME ★\n▸  Second Channel: https://youtube.com/c/Wad2ee\n▸  Twitter: https://twitter.com/WadZeeYT​​\n▸  Instagram: https://www.instagram.com/wadzeeyt/​​\n▸  Twitch: https://twitch.tv/wadzee​​\n▬▬▬▬▬▬▬▬▬▬▬▬▬ \n▸ Email for business enquiries:\n📧 - wadzeeyt@gmail.com\n▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n★ SERIES PLAYLIST ★\nhttps://www.youtube.com/watch?v=S6yBK5LcO68&list=PLXYjxAo4KISKFI4jtxVV-5XF2siI88tBF&index=3\n\n★WATCH MORE WADZEE VIDEOS! ★\n\n▸ Minecraft, But I Can NEVER Leave This Box (#5)\nhttps://www.youtube.com/watch?v=smr_bx7mn0o\n\n▸ Minecraft, But I Can't Leave This Chunk (#1)\nhttps://www.youtube.com/watch?v=S6yBK5LcO68&t=723s\n\nIRON FARM TUTORIAL:\nhttps://www.youtube.com/watch?v=zLWNpjJtQNQ\n\n♫ Music Credits:\nhttps://www.youtube.com/@ludandschlattsmusicalempor6746\n\nAny music used by Kevin Macleod is licensed under a Creative Commons Attribution 4.0 licence. https://creativecommons.org/licenses/....\n\nSource: http://incompetech.com/music/royalty-....\n\nArtist: http://incompetech.com/"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT18M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1015708",
+        "likeCount": "79283",
+        "favoriteCount": "0",
+        "commentCount": "9726"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "l1NAQofYShQWxZdQn-nBWSdTx8A",
+      "id": "mSzk5iz726E",
+      "snippet": {
+        "publishedAt": "2022-12-16T13:13:00Z",
+        "channelId": "UCEbCRO739v3_RDmv6_aw1QQ",
+        "title": "I Bought the MOST Expensive V Twin Motorcycle on Amazon",
+        "description": "-Check out the greatest Motorcycle Detailer ever https://amzn.to/3V2mfoz\n-M1 Moto Gloves, Tank Straps, and Bikes and Beards Apparel: https://bikesandbeardsgear.com/\n-Want to rent a motorcycle? Check out Riders Share: https://www.riders-share.com/\n\nI Bought the MOST Expensive Electric Non Amazon Dirtbike EVER\nhttps://youtu.be/hT3qXJCy1Zc\n\nI BOUGHT the CHEAPEST ELECTRIC dirt bike on Amazon\nhttps://youtu.be/qqsdSJXuwp4\n\nI BOUGHT The MOST EXPENSIVE street legal dirt bike on Amazon\nhttps://youtu.be/3r37X4cI-X8\n\n$30,000 I BOUGHT? The most EXPENSIVE Electric Non Amazon motorcycle\nhttps://youtu.be/h4bimEVXRzo\n\nI BOUGHT the MOST EXPENSIVE street legal bike on Amazon\nhttps://youtu.be/fj0DVF4mdxw\n\nFollow us on Instagram: https://goo.gl/WKsgVX\n\n#BikesandBeards",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mSzk5iz726E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mSzk5iz726E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mSzk5iz726E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mSzk5iz726E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mSzk5iz726E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bikes and Beards",
+        "tags": [
+          "bikes and beards",
+          "sean",
+          "motorcycles",
+          "srkcycles",
+          "srk",
+          "beards",
+          "bikes",
+          "amazon"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Bought the MOST Expensive V Twin Motorcycle on Amazon",
+          "description": "-Check out the greatest Motorcycle Detailer ever https://amzn.to/3V2mfoz\n-M1 Moto Gloves, Tank Straps, and Bikes and Beards Apparel: https://bikesandbeardsgear.com/\n-Want to rent a motorcycle? Check out Riders Share: https://www.riders-share.com/\n\nI Bought the MOST Expensive Electric Non Amazon Dirtbike EVER\nhttps://youtu.be/hT3qXJCy1Zc\n\nI BOUGHT the CHEAPEST ELECTRIC dirt bike on Amazon\nhttps://youtu.be/qqsdSJXuwp4\n\nI BOUGHT The MOST EXPENSIVE street legal dirt bike on Amazon\nhttps://youtu.be/3r37X4cI-X8\n\n$30,000 I BOUGHT? The most EXPENSIVE Electric Non Amazon motorcycle\nhttps://youtu.be/h4bimEVXRzo\n\nI BOUGHT the MOST EXPENSIVE street legal bike on Amazon\nhttps://youtu.be/fj0DVF4mdxw\n\nFollow us on Instagram: https://goo.gl/WKsgVX\n\n#BikesandBeards"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT24M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "429284",
+        "likeCount": "16446",
+        "favoriteCount": "0",
+        "commentCount": "2636"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mKe0DwatxLngmqM7o3mSF-dwlWc",
+      "id": "9UaumheebMg",
+      "snippet": {
+        "publishedAt": "2022-12-15T18:00:09Z",
+        "channelId": "UCmlkznD61Olu82oYGFr8gxg",
+        "title": "GloRilla - No More Love (Official Music Video)",
+        "description": "Stream GloRilla's debut EP 'Anyways, Life's Great...' out everywhere now: \nhttps://glorilla.lnk.to/ALG\n\nFollow #GloRilla:\nInstagram: https://www.instagram.com/glorillapimp/\nTikTok: https://www.tiktok.com/t/ZTR6WV6SC/\nFacebook: https://www.facebook.com/gloyaltygirl\nTwitter: https://twitter.com/GloTheofficial\n\n#AnywaysLifesGreat #NoMoreLove\n\nMusic video by GloRilla performing No More Love. © 2022 CMG/Interscope Records\n\nhttp://vevo.ly/uaV8zg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9UaumheebMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9UaumheebMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9UaumheebMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9UaumheebMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9UaumheebMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GloRillaVEVO",
+        "tags": [
+          "GloRilla",
+          "More",
+          "Love",
+          "CMG/Interscope",
+          "Records",
+          "Hip",
+          "Hop"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "GloRilla - No More Love (Official Music Video)",
+          "description": "Stream GloRilla's debut EP 'Anyways, Life's Great...' out everywhere now: \nhttps://glorilla.lnk.to/ALG\n\nFollow #GloRilla:\nInstagram: https://www.instagram.com/glorillapimp/\nTikTok: https://www.tiktok.com/t/ZTR6WV6SC/\nFacebook: https://www.facebook.com/gloyaltygirl\nTwitter: https://twitter.com/GloTheofficial\n\n#AnywaysLifesGreat #NoMoreLove\n\nMusic video by GloRilla performing No More Love. © 2022 CMG/Interscope Records\n\nhttp://vevo.ly/uaV8zg"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": ["BY", "IO", "KP", "RU", "SS"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "696264",
+        "likeCount": "51918",
+        "favoriteCount": "0",
+        "commentCount": "3401"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kOpZV0FQBd7tV4_87Mg1WHG_PNE",
+      "id": "aeWyp2vXxqA",
+      "snippet": {
+        "publishedAt": "2022-12-15T15:00:12Z",
+        "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
+        "title": "Black Hole Star – The Star That Shouldn't Exist",
+        "description": "Try Rocket Money for free & unlock more features with Premium! \nhttps://rocketmoney.com/Kurzgesagt\nThis video was sponsored by Rocket Money!\n\nYou've waited for a long time. Now it's finally here: our new ✨Limited Edition Pin✨. \nYou can pre-order it for 72 hours and then never again. \n🚨https://shop-us.kurzgesagt.org/products/limited-edition-universe-pin/\n\nSources & further reading:\nhttps://sites.google.com/view/sources-black-hole-star\n\nBlack hole stars may have been the largest stars to ever exist. They burned brighter than galaxies and were Larger than any star today or that could ever exist in the future. But besides their scale, what makes them special and weird is that deep inside, they were occupied by a cosmic parasite, an endlessly hungry black hole. How is that even possible?\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/youtubeJA\nKorean:          https://kgs.link/youtubeKO\n\n\nHOW CAN YOU SUPPORT US?\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Prodcuts designed with ❤ https://shop-us.kurzgesagt.org  \nJoin the Patreon Bird Army 🐧  https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTikTok:           https://kgs.link/tiktok\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC ♬♪\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\nSoundcloud: https://bit.ly/3yaqWSr\nBandcamp: https://bit.ly/2TEHjb9\n\nIf you want to help us caption this video, please send subtitles to subtitle@kurzgesagt.org\nYou can find info on what subtitle files work on YouTube here:\nhttps://support.google.com/youtube/answer/2734698?hl=en-GB&ref_topic=7296214\nThank you!\n\n🐦🐧🐤 PATREON BIRD ARMY 🐤🐧🐦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nMany Thanks to our wonderful Patreons (from http://kgs.link/patreon) who support us every month and made this video possible:\nClaudio Carusone, Christinisme, BamFred, Dark Bannana, Russell Bruskin, Tomas Mussi, Sitnalta, Ryszard Dyrek, Benjamin Davis, Aaric McMyre, Brendan Gilet, Linus Storhannus, Margaret, Alex, Miniiz, Ryan Gadsby, Bruno Quilling, Jonathan Osborne, AirdRigh, Alexis Witt, Sam McGilvery, Chandler McCown, RagaireFox, Coleman Tolliver, Michael Schwaiger, Thaniel64, Cory Berg, Alyssa, gpoly",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aeWyp2vXxqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aeWyp2vXxqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aeWyp2vXxqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aeWyp2vXxqA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aeWyp2vXxqA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kurzgesagt – In a Nutshell",
+        "tags": ["black hole", "black hole star", "blackhole"],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "Black Hole Star – The Star That Shouldn't Exist",
+          "description": "Try Rocket Money for free & unlock more features with Premium! \nhttps://rocketmoney.com/Kurzgesagt\nThis video was sponsored by Rocket Money!\n\nYou've waited for a long time. Now it's finally here: our new ✨Limited Edition Pin✨. \nYou can pre-order it for 72 hours and then never again. \n🚨https://shop-us.kurzgesagt.org/products/limited-edition-universe-pin/\n\nSources & further reading:\nhttps://sites.google.com/view/sources-black-hole-star\n\nBlack hole stars may have been the largest stars to ever exist. They burned brighter than galaxies and were Larger than any star today or that could ever exist in the future. But besides their scale, what makes them special and weird is that deep inside, they were occupied by a cosmic parasite, an endlessly hungry black hole. How is that even possible?\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/youtubeJA\nKorean:          https://kgs.link/youtubeKO\n\n\nHOW CAN YOU SUPPORT US?\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Prodcuts designed with ❤ https://shop-us.kurzgesagt.org  \nJoin the Patreon Bird Army 🐧  https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTikTok:           https://kgs.link/tiktok\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC ♬♪\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\nSoundcloud: https://bit.ly/3yaqWSr\nBandcamp: https://bit.ly/2TEHjb9\n\nIf you want to help us caption this video, please send subtitles to subtitle@kurzgesagt.org\nYou can find info on what subtitle files work on YouTube here:\nhttps://support.google.com/youtube/answer/2734698?hl=en-GB&ref_topic=7296214\nThank you!\n\n🐦🐧🐤 PATREON BIRD ARMY 🐤🐧🐦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nMany Thanks to our wonderful Patreons (from http://kgs.link/patreon) who support us every month and made this video possible:\nClaudio Carusone, Christinisme, BamFred, Dark Bannana, Russell Bruskin, Tomas Mussi, Sitnalta, Ryszard Dyrek, Benjamin Davis, Aaric McMyre, Brendan Gilet, Linus Storhannus, Margaret, Alex, Miniiz, Ryan Gadsby, Bruno Quilling, Jonathan Osborne, AirdRigh, Alexis Witt, Sam McGilvery, Chandler McCown, RagaireFox, Coleman Tolliver, Michael Schwaiger, Thaniel64, Cory Berg, Alyssa, gpoly"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2902044",
+        "likeCount": "198663",
+        "favoriteCount": "0",
+        "commentCount": "8915"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bidMMS-IH5COcZK4nE131yU0b90",
+      "id": "t8SVSAHvrww",
+      "snippet": {
+        "publishedAt": "2022-12-16T05:00:20Z",
+        "channelId": "UCvfat4DPrM3BM-xZ2zn5ruQ",
+        "title": "NoCap - Tight End ft. Rylo Rodriguez [Official Audio]",
+        "description": "NoCap - Tight End ft. Rylo Rodriguez\n\nThe Main Bird Out Now!\nStream/Download The Main Bird: https://nocap.lnk.to/TheMainBird\n\n\nThe Main Bird” Cover Art & Animation by: @mylocreate\n\nNoCap’s Jacket Artwork designed by:\nCreative Director Michael Benz, @michaelbenz444\n\n\nSubscribe for more official content from NoCap: \nhttps://nocap.lnk.to/YouTubeAY\n\nFollow NoCap:\nhttp://instagram.com/thebackendchild \nhttps://twitter.com/NoCap\nhttps://soundcloud.com/officialnocap\nhttps://www.facebook.com/NoCapOfficial\n\n#NoCap #RyloRodriguez #TightEnd  #TheMainBird",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t8SVSAHvrww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t8SVSAHvrww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t8SVSAHvrww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t8SVSAHvrww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t8SVSAHvrww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NoCap",
+        "tags": [
+          "nocap",
+          "thebackendchild",
+          "ghetto angels",
+          "legend",
+          "point guard",
+          "rylo rodriguez",
+          "rylo",
+          "free ghetto",
+          "blind nights",
+          "freestyle",
+          "mobile",
+          "alabama",
+          "innocent",
+          "nba youngboy",
+          "quando rondo",
+          "evol",
+          "exotic",
+          "lyrics",
+          "rap lyrics",
+          "official",
+          "official video",
+          "official audio",
+          "mr crawford",
+          "yb",
+          "The Main Bird",
+          "Tight End",
+          "Rylo Rodriguez"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NoCap - Tight End ft. Rylo Rodriguez [Official Audio]",
+          "description": "NoCap - Tight End ft. Rylo Rodriguez\n\nThe Main Bird Out Now!\nStream/Download The Main Bird: https://nocap.lnk.to/TheMainBird\n\n\nThe Main Bird” Cover Art & Animation by: @mylocreate\n\nNoCap’s Jacket Artwork designed by:\nCreative Director Michael Benz, @michaelbenz444\n\n\nSubscribe for more official content from NoCap: \nhttps://nocap.lnk.to/YouTubeAY\n\nFollow NoCap:\nhttp://instagram.com/thebackendchild \nhttps://twitter.com/NoCap\nhttps://soundcloud.com/officialnocap\nhttps://www.facebook.com/NoCapOfficial\n\n#NoCap #RyloRodriguez #TightEnd  #TheMainBird"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "116380",
+        "likeCount": "9228",
+        "favoriteCount": "0",
+        "commentCount": "465"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EgfuzWoZrYzqVUcuIjATNs6pkE4",
+      "id": "jh4ag4FTpVI",
+      "snippet": {
+        "publishedAt": "2022-12-16T04:47:03Z",
+        "channelId": "UCvfat4DPrM3BM-xZ2zn5ruQ",
+        "title": "NoCap - Rich And Dangerous [Official Music Video]",
+        "description": "NoCap - Rich And Dangerous\n\nThe Main Bird Out Now!\nStream/Download The Main Bird: https://nocap.lnk.to/TheMainBird\n\nSubscribe for more official content from NoCap: \nhttps://nocap.lnk.to/YouTubeAY\n\nFollow NoCap:\nhttp://instagram.com/thebackendchild \nhttps://twitter.com/NoCap\nhttps://soundcloud.com/officialnocap\nhttps://www.facebook.com/NoCapOfficial\n\n#NoCap #RichAndDangerous #TheMainBird",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jh4ag4FTpVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jh4ag4FTpVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jh4ag4FTpVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jh4ag4FTpVI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "NoCap",
+        "tags": [
+          "nocap",
+          "thebackendchild",
+          "ghetto angels",
+          "legend",
+          "point guard",
+          "rylo rodriguez",
+          "rylo",
+          "free ghetto",
+          "blind nights",
+          "freestyle",
+          "mobile",
+          "alabama",
+          "innocent",
+          "nba youngboy",
+          "quando rondo",
+          "evol",
+          "exotic",
+          "lyrics",
+          "rap lyrics",
+          "official",
+          "official video",
+          "official audio",
+          "mr crawford",
+          "yb"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NoCap - Rich And Dangerous [Official Music Video]",
+          "description": "NoCap - Rich And Dangerous\n\nThe Main Bird Out Now!\nStream/Download The Main Bird: https://nocap.lnk.to/TheMainBird\n\nSubscribe for more official content from NoCap: \nhttps://nocap.lnk.to/YouTubeAY\n\nFollow NoCap:\nhttp://instagram.com/thebackendchild \nhttps://twitter.com/NoCap\nhttps://soundcloud.com/officialnocap\nhttps://www.facebook.com/NoCapOfficial\n\n#NoCap #RichAndDangerous #TheMainBird"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "176317",
+        "likeCount": "16691",
+        "favoriteCount": "0",
+        "commentCount": "932"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "w0HGHITph8i_jiOF0NTIeEndD94",
+      "id": "BOAx_SmmDzY",
+      "snippet": {
+        "publishedAt": "2022-12-15T22:00:07Z",
+        "channelId": "UC5f5IV0Bf79YLp_p9nfInRA",
+        "title": "How Many Propane Balloons Stops A Flaming Arrow?",
+        "description": "Thanks to DJI for sponsoring this video! Check out the Avata FPV drone here: https://store.dji.com/product/dji-avata?utm_source=yt&utm_medium=kol-affiliates&utm_campaign=launch-avata&utm_content=howridiculous\n#djiavata \n\nBUY NEW MERCH ➤ http://bit.ly/HRMerchStore\n\nSUBSCRIBE ➤ http://bit.ly/SubHowRidiculous\n\nBECOME A MEMBER ➤ and get exclusive perks like bonus videos, live streams. merch discount codes + more!  http://bit.ly/HRmemberships\n\nSOCIALS\nInstagram ➤ @HowRidiculous\nFacebook ➤ How Ridiculous / http://bit.ly/HRFacey\nTwitter     ➤ @howridiculous\nTikTok     ➤ @howridiculous\nDiscord   ➤ https://discord.gg/MWmqCEvjeJ\n\nWhat's the 44 Club? https://howridiculous.org/pages/44-club\n\nMusic used with permission and licensed to How Ridiculous by Dream Records LLC | Sync Royalty: \n\"It's Not Stopping!\"\n\"HR1\" - https://youtu.be/7Gj64DrBWfU\n\"Richard's Big Bar\"\n\"Spike Tyson\"\n\"Space Party\"\n\"JHON\"\n\"Mr Mustache\"\n\"Rexy Ride\"\n\nWe are passionate about seeing children released from poverty and we would love you to consider sponsoring a child with Compassion. We visited our sponsor children in the Philippines and were blown away by the difference that child sponsorship can make. To find out more about sponsoring a child right now, check out: http://cmpsn.co/howridiculous\n\nFor 44 Club fan mail or other items please send to: \nHow Ridiculous \nPO Box 1256 \nCanning Vale DC WA 6970\nAustralia\n\nEMAIL US:\nAll 44CLUB/fan email ➤ 44club@howridiculous.org\n\"We'll Pin Ya\" Submissions ➤ pinya@howridiculous.org\nMerchandise Questions ➤ merch@howridiculous.org\nLicensing/Media Inquiries ➤ licenses@howridiculous.org\nBusiness Inquiries ONLY ➤ management@howridiculous.org",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BOAx_SmmDzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BOAx_SmmDzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BOAx_SmmDzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BOAx_SmmDzY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BOAx_SmmDzY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "How Ridiculous",
+        "tags": ["how ridiculous", "rexy", "44club"],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How Many Propane Balloons Stops A Flaming Arrow?",
+          "description": "Thanks to DJI for sponsoring this video! Check out the Avata FPV drone here: https://store.dji.com/product/dji-avata?utm_source=yt&utm_medium=kol-affiliates&utm_campaign=launch-avata&utm_content=howridiculous\n#djiavata \n\nBUY NEW MERCH ➤ http://bit.ly/HRMerchStore\n\nSUBSCRIBE ➤ http://bit.ly/SubHowRidiculous\n\nBECOME A MEMBER ➤ and get exclusive perks like bonus videos, live streams. merch discount codes + more!  http://bit.ly/HRmemberships\n\nSOCIALS\nInstagram ➤ @HowRidiculous\nFacebook ➤ How Ridiculous / http://bit.ly/HRFacey\nTwitter     ➤ @howridiculous\nTikTok     ➤ @howridiculous\nDiscord   ➤ https://discord.gg/MWmqCEvjeJ\n\nWhat's the 44 Club? https://howridiculous.org/pages/44-club\n\nMusic used with permission and licensed to How Ridiculous by Dream Records LLC | Sync Royalty: \n\"It's Not Stopping!\"\n\"HR1\" - https://youtu.be/7Gj64DrBWfU\n\"Richard's Big Bar\"\n\"Spike Tyson\"\n\"Space Party\"\n\"JHON\"\n\"Mr Mustache\"\n\"Rexy Ride\"\n\nWe are passionate about seeing children released from poverty and we would love you to consider sponsoring a child with Compassion. We visited our sponsor children in the Philippines and were blown away by the difference that child sponsorship can make. To find out more about sponsoring a child right now, check out: http://cmpsn.co/howridiculous\n\nFor 44 Club fan mail or other items please send to: \nHow Ridiculous \nPO Box 1256 \nCanning Vale DC WA 6970\nAustralia\n\nEMAIL US:\nAll 44CLUB/fan email ➤ 44club@howridiculous.org\n\"We'll Pin Ya\" Submissions ➤ pinya@howridiculous.org\nMerchandise Questions ➤ merch@howridiculous.org\nLicensing/Media Inquiries ➤ licenses@howridiculous.org\nBusiness Inquiries ONLY ➤ management@howridiculous.org"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT15M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "920167",
+        "likeCount": "33142",
+        "favoriteCount": "0",
+        "commentCount": "1356"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Z9eR5XVrzYn3stNT0bo3gjdY3FQ",
+      "id": "7yyjFudHYuw",
+      "snippet": {
+        "publishedAt": "2022-12-16T16:00:07Z",
+        "channelId": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+        "title": "Why I deleted the subreddit",
+        "description": "PewDiePie Cases: https://url.rhinoshield.io/pdpcase\nUse code: PEWDIEPIE for 20% off in the first week\nRHINOSHIELD All Cases: https://url.rhinoshield.io/rspdpall #ad\n\n🧎#Subscribe🧎\n\nStock Up On ➡️🥤Gfuel (affiliate): https://gfuel.ly/pewdiepie-collection\n#Code #Pewdiepie\n\n👘 New Pre-Order for Tsuki: https://bit.ly/3xrWsgY\n\n📱Customized Devices: https://rhinoshield.io/pewdiepie\n\n⛰️NordVPN DOWNLOAD (affiliate link)⛰️\nGo to https://NordVPN.com/pewdiepie and use code PEWDIEPIE to get a 2-year plan plus 1 additional month with a huge discount. It’s risk free with Nord’s 30 day money-back guarantee!\n\n⚙️My Setup (affiliate links)⚙️\n🪑 Chair: https://bit.ly/3r51IUS\n💻 Browser: https://operagx.gg/Pewds\n⌨️ 🖱️ Keyboard & Mouse: https://ghostkeyboards.com/pages/pewd...\n\n🕹️ Pewdiepie's Pixelings\niOS: https://buff.ly/2pNG0aT\nAndroid: https://buff.ly/34C68nZ\n\n🕹️Pewdiepie’s Tuber Simulator\niOS: https://apps.apple.com/us/app/pewdiep...\nAndroid: https://play.google.com/store/apps/de...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7yyjFudHYuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7yyjFudHYuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7yyjFudHYuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7yyjFudHYuw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7yyjFudHYuw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PewDiePie",
+        "tags": ["pewdiepie", "pewds", "pewdie"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Why I deleted the subreddit",
+          "description": "PewDiePie Cases: https://url.rhinoshield.io/pdpcase\nUse code: PEWDIEPIE for 20% off in the first week\nRHINOSHIELD All Cases: https://url.rhinoshield.io/rspdpall #ad\n\n🧎#Subscribe🧎\n\nStock Up On ➡️🥤Gfuel (affiliate): https://gfuel.ly/pewdiepie-collection\n#Code #Pewdiepie\n\n👘 New Pre-Order for Tsuki: https://bit.ly/3xrWsgY\n\n📱Customized Devices: https://rhinoshield.io/pewdiepie\n\n⛰️NordVPN DOWNLOAD (affiliate link)⛰️\nGo to https://NordVPN.com/pewdiepie and use code PEWDIEPIE to get a 2-year plan plus 1 additional month with a huge discount. It’s risk free with Nord’s 30 day money-back guarantee!\n\n⚙️My Setup (affiliate links)⚙️\n🪑 Chair: https://bit.ly/3r51IUS\n💻 Browser: https://operagx.gg/Pewds\n⌨️ 🖱️ Keyboard & Mouse: https://ghostkeyboards.com/pages/pewd...\n\n🕹️ Pewdiepie's Pixelings\niOS: https://buff.ly/2pNG0aT\nAndroid: https://buff.ly/34C68nZ\n\n🕹️Pewdiepie’s Tuber Simulator\niOS: https://apps.apple.com/us/app/pewdiep...\nAndroid: https://play.google.com/store/apps/de..."
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT12M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "932225",
+        "likeCount": "87548",
+        "favoriteCount": "0",
+        "commentCount": "3628"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NWYgSn9rVkap5FgPAvQNzuRDdpE",
+      "id": "2V5joneZwK8",
+      "snippet": {
+        "publishedAt": "2022-12-16T12:07:12Z",
+        "channelId": "UCIZP6nCTyU9VV0zIhY7q1Aw",
+        "title": "*NEW* MY HERO ACADEMIA COLLAB! Early Fortnite Item Shop Reset (Fortnite Battle Royale)",
+        "description": "Code ITF #epicpartner \n\nIf you would like to support me with Support A Creator, be sure to use code ITF. You can use that code in the Fortnite Item Shop and the Epic Games Store! Thank you for all the support, it really means a lot to me! #EpicPartner\n\nI Talk is a Fortnite YouTube channel, talking about all things Fortnite Battle Royale! We discuss everything from leaks, patch notes, updates, thoughts and opinions, and any other topics that are relevant! I also do daily Item Shop videos everyday, so if you want to see something that's currently in the Item Shop, you can see that I upload every single day for the Item Shop.\n\nEnhance your gaming experience with Wick and Skull candles with my affiliate link: \nhttps://wickandskull.com/itf\n\n---Get Connected---\nSubscribe to my YouTube Channel: https://www.youtube.com/channel/UCIZP6nCTyU9VV0zIhY7q1Aw?sub_confirmation=1\nFollow me on Twitter: https://twitter.com/ThisIsITalk\nFollow me on TikTok: https://www.tiktok.com/@imitalk\nThumbnails made by CrazyShark, check him out here: https://t.co/vKVkQVmqn8",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2V5joneZwK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2V5joneZwK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2V5joneZwK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2V5joneZwK8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2V5joneZwK8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "I Talk",
+        "tags": [
+          "italk",
+          "italkfortnite",
+          "chapter 3",
+          "chapter 3 news",
+          "fortnite item shop",
+          "fortnite battle royale",
+          "fortnite chapter 3"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "*NEW* MY HERO ACADEMIA COLLAB! Early Fortnite Item Shop Reset (Fortnite Battle Royale)",
+          "description": "Code ITF #epicpartner \n\nIf you would like to support me with Support A Creator, be sure to use code ITF. You can use that code in the Fortnite Item Shop and the Epic Games Store! Thank you for all the support, it really means a lot to me! #EpicPartner\n\nI Talk is a Fortnite YouTube channel, talking about all things Fortnite Battle Royale! We discuss everything from leaks, patch notes, updates, thoughts and opinions, and any other topics that are relevant! I also do daily Item Shop videos everyday, so if you want to see something that's currently in the Item Shop, you can see that I upload every single day for the Item Shop.\n\nEnhance your gaming experience with Wick and Skull candles with my affiliate link: \nhttps://wickandskull.com/itf\n\n---Get Connected---\nSubscribe to my YouTube Channel: https://www.youtube.com/channel/UCIZP6nCTyU9VV0zIhY7q1Aw?sub_confirmation=1\nFollow me on Twitter: https://twitter.com/ThisIsITalk\nFollow me on TikTok: https://www.tiktok.com/@imitalk\nThumbnails made by CrazyShark, check him out here: https://t.co/vKVkQVmqn8"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "127896",
+        "likeCount": "4988",
+        "favoriteCount": "0",
+        "commentCount": "602"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hVzPu8ePoY3-DSFKKmxOQtspVCA",
+      "id": "zuoSn3ObMz4",
+      "snippet": {
+        "publishedAt": "2022-12-16T08:59:07Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "NCT DREAM 엔시티 드림 'Candy' MV",
+        "description": "NCT DREAM's Winter Special Mini Album \"Candy\" is out!\nListen and download on your favorite platform: https://NCTDREAM.lnk.to/Candy\n\nPhysical Album Release ➫ 2022.12.19 (KST)\n\n[Tracklist]\n01 Candy\n02 Graduation\n03 Tangerine Love (Favorite)\n04 입김 (Take My Breath)\n05 문 (Moon)\n06 발자국 (Walk With You)\n\n🍬NCT DREAM ‘Candy’ Comeback Live ➫ 2022.12.19 8PM (KST)\nhttps://youtu.be/HiD5bS6p3t0\n\nNCT DREAM Official\nhttps://www.youtube.com/nctdream\nhttps://www.instagram.com/nct_dream\nhttps://www.tiktok.com/@official_nct\nhttps://twitter.com/NCTsmtown_DREAM\nhttps://www.facebook.com/NCTDREAM.smtown\n\n#NCTDREAM #Candy\n#NCTDREAM_Candy\nNCT DREAM 엔시티 드림 'Candy' MV ℗ SM Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zuoSn3ObMz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zuoSn3ObMz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zuoSn3ObMz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zuoSn3ObMz4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zuoSn3ObMz4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "tags": [
+          "nct dream",
+          "엔시티 드림",
+          "candy",
+          "mv teaser",
+          "mark",
+          "renjun",
+          "jeno",
+          "haechan",
+          "jaemin",
+          "chenle",
+          "jisung",
+          "h.o.t.",
+          "remake",
+          "remaster",
+          "nct",
+          "엔시티",
+          "캔디",
+          "뮤비",
+          "뮤직비디오",
+          "마크",
+          "런쥔",
+          "제노",
+          "해찬",
+          "재민",
+          "천러",
+          "지성",
+          "에쵸티",
+          "에이치오티",
+          "리메이크",
+          "리마스터"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NCT DREAM 엔시티 드림 'Candy' MV",
+          "description": "NCT DREAM's Winter Special Mini Album \"Candy\" is out!\nListen and download on your favorite platform: https://NCTDREAM.lnk.to/Candy\n\nPhysical Album Release ➫ 2022.12.19 (KST)\n\n[Tracklist]\n01 Candy\n02 Graduation\n03 Tangerine Love (Favorite)\n04 입김 (Take My Breath)\n05 문 (Moon)\n06 발자국 (Walk With You)\n\n🍬NCT DREAM ‘Candy’ Comeback Live ➫ 2022.12.19 8PM (KST)\nhttps://youtu.be/HiD5bS6p3t0\n\nNCT DREAM Official\nhttps://www.youtube.com/nctdream\nhttps://www.instagram.com/nct_dream\nhttps://www.tiktok.com/@official_nct\nhttps://twitter.com/NCTsmtown_DREAM\nhttps://www.facebook.com/NCTDREAM.smtown\n\n#NCTDREAM #Candy\n#NCTDREAM_Candy\nNCT DREAM 엔시티 드림 'Candy' MV ℗ SM Entertainment"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4968767",
+        "likeCount": "566081",
+        "favoriteCount": "0",
+        "commentCount": "33568"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QdxC6o8rED3NICn1aF0mC87UDQw",
+      "id": "6g3GTNdsbN4",
+      "snippet": {
+        "publishedAt": "2022-12-16T05:00:03Z",
+        "channelId": "UCiTc5gEb73NL3ADF58VpHNA",
+        "title": "BWay Yungy - Far Away ft. NBA YoungBoy [Official Audio]",
+        "description": "BWay Yungy - Far Away ft. NBA YoungBoy\n\n'Success Before Destruction' Out Now!\nStream/Download: https://bway.lnk.to/SuccessBeforeDestruction\n\nFollow BWay Yungy:\nhttps://www.instagram.com/itzthabway/\nhttps://www.facebook.com/BwayYungyOfficial/\nhttps://soundcloud.com/itzthebway/\n\n#BWayYungy NBAYoungBoy #FarAway #SuccessBeforeDestruction",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6g3GTNdsbN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6g3GTNdsbN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6g3GTNdsbN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6g3GTNdsbN4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6g3GTNdsbN4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BWay Yungy",
+        "tags": [
+          "BWay Yungy",
+          "BWay Yungy Dark Hearted",
+          "Dark Hearted",
+          "Focus",
+          "Baton Rouge"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "BWay Yungy - Far Away ft. NBA YoungBoy [Official Audio]",
+          "description": "BWay Yungy - Far Away ft. NBA YoungBoy\n\n'Success Before Destruction' Out Now!\nStream/Download: https://bway.lnk.to/SuccessBeforeDestruction\n\nFollow BWay Yungy:\nhttps://www.instagram.com/itzthabway/\nhttps://www.facebook.com/BwayYungyOfficial/\nhttps://soundcloud.com/itzthebway/\n\n#BWayYungy NBAYoungBoy #FarAway #SuccessBeforeDestruction"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "127788",
+        "likeCount": "15829",
+        "favoriteCount": "0",
+        "commentCount": "621"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "O6OPFGvUoUeib2b_AzvJAs98XeQ",
+      "id": "BqucGvLxrEk",
+      "snippet": {
+        "publishedAt": "2022-12-15T21:00:07Z",
+        "channelId": "UCV_CsAy5CNBX_uwDQ7RMe1Q",
+        "title": "Central Cee - Let Go [Music Video]",
+        "description": "🎵 Stream \"Let Go\" https://cench.lnk.to/LET-GO",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BqucGvLxrEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BqucGvLxrEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BqucGvLxrEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BqucGvLxrEk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BqucGvLxrEk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Central Cee",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Central Cee - Let Go [Music Video]",
+          "description": "🎵 Stream \"Let Go\" https://cench.lnk.to/LET-GO"
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2771549",
+        "likeCount": "300407",
+        "favoriteCount": "0",
+        "commentCount": "4885"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NkT6CJYGGijFbfy2HJety5FwlYQ",
+      "id": "e5umnm0kpy0",
+      "snippet": {
+        "publishedAt": "2022-12-16T14:00:32Z",
+        "channelId": "UCm6Enc4guGzJyAnQmq9BUSw",
+        "title": "Recovering Sunken Boat At Bottom of Lake Powell After 30 Years",
+        "description": "#fabrats #lakepowell #shipwrecks \n\nEpisode 2 OPERATION YELLOW SUBMARINE.  In today's Episode we recover a boat that's been at the bottom of Lake Powell for 30 years and mark my words..........it will run and float again!  Check it out!\nMake sure to follow along with us as we build and fabricate cool stuff!!\n\nJoin our Patreon today to get EXCLUSIVE content: https://www.patreon.com/FabRats\n\nGet your own Fab Rat's Apparel Here:\nhttps://www.thefabrats.com/\n\nMore videos you'll love:\n\nSunken Boat At Bottom of Lake Powell Emerges After 30 Years\nhttps://www.youtube.com/watch?v=LqesgLNUe4Q\n\nAfter Disaster Strikes, Ben Gets SURPRISE Of A Lifetime!!\nhttps://www.youtube.com/watch?v=XTqQO3xYnxQ\n\nThere's Only One Thing Left To Do Now That The FJ45's Is Fixed!\nhttps://www.youtube.com/watch?v=yBHxDiWvJlY\n\nAll Of Our Rigs Are Going To Be Broken After This Sketchy Recovery!\nhttps://www.youtube.com/watch?v=tdxDOd7BpUs\n\nI Can't Believe I Let Her Do This AGAIN!\nhttps://www.youtube.com/watch?v=1qkQQ3r6dW4\n\nIT'S ALIVE! The Rat Rod Wrecker's First Start Up Gets A Little Explosive!  Plus, WINNER ANNOUNCED!\nhttps://www.youtube.com/watch?v=ZaXUHak_vhk\n\nWe love Barnes 4x4. Check them out!\nhttps://www.barnes4wd.com/?ApplyPromo=fabrats\n\nCheck out Yankum Ropes!!\nhttps://bit.ly/yankumFABRATS\nUse coupon code FABRATS at checkout to save 5% on your order!\n\nFollow us on Instagram: FabRats \n\nAnd THE FAB RATS Facebook page: https://www.facebook.com/thefabrats\n\nFor business inquiries please email us at: thefabrats@gmail.com\nShipping Address:\nFab Rats\nP.O. Box 234 or General Delivery\nGlendale, UT 84729",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e5umnm0kpy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e5umnm0kpy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e5umnm0kpy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e5umnm0kpy0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e5umnm0kpy0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fab Rats",
+        "tags": [
+          "Toyota offroading",
+          "toyota",
+          "4x4",
+          "off road",
+          "fab rats",
+          "fabrication",
+          "diy",
+          "grind hard",
+          "off road extreme 4x4",
+          "build series",
+          "4link",
+          "Sunken boats",
+          "lake powell",
+          "glen canyon",
+          "severe drought",
+          "boat",
+          "speed boat",
+          "fast boat",
+          "will it run"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Recovering Sunken Boat At Bottom of Lake Powell After 30 Years",
+          "description": "#fabrats #lakepowell #shipwrecks \n\nEpisode 2 OPERATION YELLOW SUBMARINE.  In today's Episode we recover a boat that's been at the bottom of Lake Powell for 30 years and mark my words..........it will run and float again!  Check it out!\nMake sure to follow along with us as we build and fabricate cool stuff!!\n\nJoin our Patreon today to get EXCLUSIVE content: https://www.patreon.com/FabRats\n\nGet your own Fab Rat's Apparel Here:\nhttps://www.thefabrats.com/\n\nMore videos you'll love:\n\nSunken Boat At Bottom of Lake Powell Emerges After 30 Years\nhttps://www.youtube.com/watch?v=LqesgLNUe4Q\n\nAfter Disaster Strikes, Ben Gets SURPRISE Of A Lifetime!!\nhttps://www.youtube.com/watch?v=XTqQO3xYnxQ\n\nThere's Only One Thing Left To Do Now That The FJ45's Is Fixed!\nhttps://www.youtube.com/watch?v=yBHxDiWvJlY\n\nAll Of Our Rigs Are Going To Be Broken After This Sketchy Recovery!\nhttps://www.youtube.com/watch?v=tdxDOd7BpUs\n\nI Can't Believe I Let Her Do This AGAIN!\nhttps://www.youtube.com/watch?v=1qkQQ3r6dW4\n\nIT'S ALIVE! The Rat Rod Wrecker's First Start Up Gets A Little Explosive!  Plus, WINNER ANNOUNCED!\nhttps://www.youtube.com/watch?v=ZaXUHak_vhk\n\nWe love Barnes 4x4. Check them out!\nhttps://www.barnes4wd.com/?ApplyPromo=fabrats\n\nCheck out Yankum Ropes!!\nhttps://bit.ly/yankumFABRATS\nUse coupon code FABRATS at checkout to save 5% on your order!\n\nFollow us on Instagram: FabRats \n\nAnd THE FAB RATS Facebook page: https://www.facebook.com/thefabrats\n\nFor business inquiries please email us at: thefabrats@gmail.com\nShipping Address:\nFab Rats\nP.O. Box 234 or General Delivery\nGlendale, UT 84729"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT26M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "239757",
+        "likeCount": "21077",
+        "favoriteCount": "0",
+        "commentCount": "2524"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-P2eoPNC9jMbS5DSw67Bg25WNB8",
+      "id": "C-O0_Vb0aco",
+      "snippet": {
+        "publishedAt": "2022-12-15T21:41:45Z",
+        "channelId": "UCCvgLV2Ixb8KCemj-UtXZ-g",
+        "title": "Royal Family Unite at Kate’s Christmas Carol Service",
+        "description": "Members of the Royal Family gathered together at Westminster Abbey on Thursday to attend the charity Christmas carol service organised by the Princess of Wales.\n\nKing Charles and Camilla, the Queen Consort joined William, Catherine, Prince George and Princess Charlotte, along with extended members of the family, for an evening of festive cheer dedicated to the late Queen Elizabeth II. \n\n#KateMiddleton #TogetherAtChristmas #RoyalFamily \n\nReport by Daisy Busel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C-O0_Vb0aco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C-O0_Vb0aco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C-O0_Vb0aco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C-O0_Vb0aco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C-O0_Vb0aco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Royal Family Channel",
+        "tags": [
+          "Royal Family",
+          "British royals",
+          "British Royal Family",
+          "Royal news",
+          "Royal history",
+          "Royal Family Channel",
+          "royal family channel kate middleton",
+          "royal family channel official",
+          "royal family channel kate and william",
+          "royal family channel queen and clarence",
+          "royal family channel duchess of cambridge",
+          "royal family channel queen funeral",
+          "royal family channel youtube",
+          "together at christmas 2022",
+          "together at christmas carol service",
+          "together at christmas westminster abbey 2022"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Royal Family Unite at Kate’s Christmas Carol Service",
+          "description": "Members of the Royal Family gathered together at Westminster Abbey on Thursday to attend the charity Christmas carol service organised by the Princess of Wales.\n\nKing Charles and Camilla, the Queen Consort joined William, Catherine, Prince George and Princess Charlotte, along with extended members of the family, for an evening of festive cheer dedicated to the late Queen Elizabeth II. \n\n#KateMiddleton #TogetherAtChristmas #RoyalFamily \n\nReport by Daisy Busel."
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT3M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "990175",
+        "likeCount": "19094",
+        "favoriteCount": "0",
+        "commentCount": "2549"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9NiPQy88PkRjM9MSr5Kqv3tkP60",
+      "id": "aG5B8yUWYns",
+      "snippet": {
+        "publishedAt": "2022-12-15T23:30:18Z",
+        "channelId": "UC6HyKpYWmX4zsy6_bJZIK7A",
+        "title": "She tried to return a lost credit card. Why did police accuse her of stealing it?",
+        "description": "A Detroit mother says she was wrongfully arrested after trying to return a lost credit card. What happened next, she says, ruined her life.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aG5B8yUWYns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aG5B8yUWYns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aG5B8yUWYns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aG5B8yUWYns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aG5B8yUWYns/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WXYZ-TV Detroit | Channel 7",
+        "tags": ["7 Action News", "Detroit", "WXYZ-TV", "metro Detroit"],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "She tried to return a lost credit card. Why did police accuse her of stealing it?",
+          "description": "A Detroit mother says she was wrongfully arrested after trying to return a lost credit card. What happened next, she says, ruined her life."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT7M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "155869",
+        "likeCount": "4218",
+        "favoriteCount": "0",
+        "commentCount": "2150"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AOMzjPGQ9uaevhclebc3UkG2WTo",
+      "id": "0uQqMxXoNVs",
+      "snippet": {
+        "publishedAt": "2022-12-16T04:25:56Z",
+        "channelId": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+        "title": "It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)",
+        "description": "Imagine being able to have a language conversation about anything with a computer. This is now possible and available to many people for the first time with ChatGPT. In this episode we take a look at the consequences and some interesting insights from Open AI’s CEO Sam Altman. \n\n» Podcast: https://www.youtube.com/channel/UC6jKUaNXSnuW52CxexLcOJg\nInterviews with Altman: https://www.youtube.com/watch?v=WHoWGNQRXb0\nhttps://www.youtube.com/watch?v=DEvbDq6BOVM\n\n» Twitter | @ColdFusion_TV\n» Instagram | coldfusiontv\n\n//Soundtrack//\n\nBurn Water - Nostalgia Dreams [The Deep Mix]\nAll Parts Equal – Airae\nCity Phases - John Abbot\nBurn Water – Ikigai\nBurn Water – Take Flight (Instrumental)\nIn the Waiting - Johannes Bornlof\nBurn Water - Yesterday's Future\nRoland Lewis - Wait\nBurn Water – Being Honest\nAphex Twin – Stone in Focus\nTangerine Dream -  Love On A Real Train \nBurn Water – Passage of Time\nBurn Water – Nostalgia Dreams\n\nSources:\n\nhttps://techcrunch.com/2022/10/12/microsoft-brings-dall-e-2-to-the-masses-with-designer-and-image-creator/\nhttps://techcrunch.com/2022/12/13/chinas-generative-ai-rules-set-boundaries-and-punishments-for-misuse/\nhttps://www.nature.com/articles/s41586-022-05424-3.epdf?no_publisher_access=1&r3_referer=nature\nhttps://www.quantamagazine.org/physicists-create-a-wormhole-using-a-quantum-computer-20221130/\nhttps://arxiv.org/abs/2203.02155\nhttps://thesis.library.caltech.edu/15035/\nhttps://openai.com/blog/instruction-following/\nhttps://openai.com/blog/chatgpt/\nhttps://arxiv.org/abs/2005.14165\n11-year-old boy uses chatbot AI to create a Harry Potter game (msn.com)\nhttps://donotpay.com/\nhttps://chat.openai.com/\nhttps://twitter.com/robinhanson\n\nColdFusion Music Channel: https://www.youtube.com/channel/UCGkpFfEMF0eMJlh9xXj2lMw\n\n» Music I produce | http://burnwater.bandcamp.com or \n» http://www.soundcloud.com/burnwater\n» https://www.patreon.com/ColdFusion_TV\n» Collection of music used in videos: https://www.youtube.com/watch?v=YOrJJKW31OA\n\nProducer: Dagogo Altraide",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0uQqMxXoNVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0uQqMxXoNVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0uQqMxXoNVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0uQqMxXoNVs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0uQqMxXoNVs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ColdFusion",
+        "tags": [
+          "Coldfusion",
+          "TV",
+          "Dagogo",
+          "Altraide",
+          "Technology",
+          "Apple",
+          "Google",
+          "Samsung",
+          "Facebook",
+          "Tesla"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)",
+          "description": "Imagine being able to have a language conversation about anything with a computer. This is now possible and available to many people for the first time with ChatGPT. In this episode we take a look at the consequences and some interesting insights from Open AI’s CEO Sam Altman. \n\n» Podcast: https://www.youtube.com/channel/UC6jKUaNXSnuW52CxexLcOJg\nInterviews with Altman: https://www.youtube.com/watch?v=WHoWGNQRXb0\nhttps://www.youtube.com/watch?v=DEvbDq6BOVM\n\n» Twitter | @ColdFusion_TV\n» Instagram | coldfusiontv\n\n//Soundtrack//\n\nBurn Water - Nostalgia Dreams [The Deep Mix]\nAll Parts Equal – Airae\nCity Phases - John Abbot\nBurn Water – Ikigai\nBurn Water – Take Flight (Instrumental)\nIn the Waiting - Johannes Bornlof\nBurn Water - Yesterday's Future\nRoland Lewis - Wait\nBurn Water – Being Honest\nAphex Twin – Stone in Focus\nTangerine Dream -  Love On A Real Train \nBurn Water – Passage of Time\nBurn Water – Nostalgia Dreams\n\nSources:\n\nhttps://techcrunch.com/2022/10/12/microsoft-brings-dall-e-2-to-the-masses-with-designer-and-image-creator/\nhttps://techcrunch.com/2022/12/13/chinas-generative-ai-rules-set-boundaries-and-punishments-for-misuse/\nhttps://www.nature.com/articles/s41586-022-05424-3.epdf?no_publisher_access=1&r3_referer=nature\nhttps://www.quantamagazine.org/physicists-create-a-wormhole-using-a-quantum-computer-20221130/\nhttps://arxiv.org/abs/2203.02155\nhttps://thesis.library.caltech.edu/15035/\nhttps://openai.com/blog/instruction-following/\nhttps://openai.com/blog/chatgpt/\nhttps://arxiv.org/abs/2005.14165\n11-year-old boy uses chatbot AI to create a Harry Potter game (msn.com)\nhttps://donotpay.com/\nhttps://chat.openai.com/\nhttps://twitter.com/robinhanson\n\nColdFusion Music Channel: https://www.youtube.com/channel/UCGkpFfEMF0eMJlh9xXj2lMw\n\n» Music I produce | http://burnwater.bandcamp.com or \n» http://www.soundcloud.com/burnwater\n» https://www.patreon.com/ColdFusion_TV\n» Collection of music used in videos: https://www.youtube.com/watch?v=YOrJJKW31OA\n\nProducer: Dagogo Altraide"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT26M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "438343",
+        "likeCount": "23135",
+        "favoriteCount": "0",
+        "commentCount": "3472"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6EizTYB4LstVzoRbt7Oi3EqQzD4",
+      "id": "yBmV_u7vNCw",
+      "snippet": {
+        "publishedAt": "2022-12-15T22:30:05Z",
+        "channelId": "UCes1EvRjcKU4sY_UEavndBw",
+        "title": "Top Car Tools and Gadgets of 2022 (Christmas Gift Ideas)",
+        "description": "Here's my top 5 Christmas Gift Ideas for car guys and girls. These are the coolest gadgets and most helpful tools I could think of for this year. \nThis year's gifts are extra special with the BRAND NEW ChrisFix children's book and ChrisFix Extendable Ratchet Set!!!\n I also included stocking stuffers for even more gift ideas on a budget! These gift ideas are all products I personally use and like enough to share with my fans! \n\nChrisFix Children's Book: https://amzn.to/3hsrlgb\n\n1.\nChrisFix Extendable Ratchets: https://amzn.to/3ho15TX \nRatcheting Flare nut wrench: https://amzn.to/3UPIZb2 \nReverse Bleeder: https://amzn.to/3hi8AvH \n\n2. \nVacuum Carpet Extractor: https://amzn.to/3W96Rbu\nVacuum extractor attachment: https://amzn.to/3Yds9pF \nSteam Cleaner: https://amzn.to/3uJRKJs \n\n3.\nM12 Tire Inflator: https://amzn.to/3FSQpq9\nM18 Tire Inflator: https://amzn.to/3BrDMiR \nRyobi Tire Inflator: https://amzn.to/3VQYjWj \nTorque Lug Wrench: https://amzn.to/3Wb4LqU \n\n4.\nKnife Sharpener: https://amzn.to/3WaLLJ4\nLeatherman Multitool: https://amzn.to/3FIOnsg \nNut and Bolt size tester: https://amzn.to/3uI0qjq \n\n5.\nFlexible Borescope Camera: https://amzn.to/3FlCZkF \nSmall Dual Lens Camera: https://amzn.to/3Wh4Wkx\nCavity Wax: https://amzn.to/3FJgh7D\n\nThe Other Christmas Gift Idea videos I did:\n1st year: https://www.youtube.com/watch?v=esMSQ8iF924\n2nd year: https://www.youtube.com/watch?v=3-PZ4gE5o14\n3rd year: https://www.youtube.com/watch?v=EOeOZPiF8qY\n4th year: https://www.youtube.com/watch?v=DvcpqCPQ3uI\n5th year: https://www.youtube.com/watch?v=2K9i_RTAV7E\n6th year: https://www.youtube.com/watch?v=vYv4QAqRwBw\n\n0:00 7th Annual Top 5 Christmas Gift Ideas for Car Guys and Girls Intro\n0:58 ChrisFix children's book\n1:59 Flare nut ratcheting wrenches\n4:21 ChrisFix extendable ratchet set\n8:09 Reverse brake bleeder\n9:45 Extractor vacuum cleaner\n12:04 Extractor vacuum attachment\n13:27 Steam cleaner\n14:13 Milwaukee and Ryobi tire inflator\n16:29 Lug torque wrench\n18:14 Knife and tool sharpener\n20:35 Leatherman multitool\n23:39 Nut and bolt measuring tool\n24:41 Borescope camera\n26:51 Cavity wax rust prevention\n\n___________________________________________\n→ As an Amazon Associate I earn from qualifying purchases.\n→ Become a ChrisFix Subscriber: http://www.youtube.com/subscription_center?add_user=paintballoo7\n→ Instagram: https://www.instagram.com/chrisfixit\n→ Facebook: https://www.facebook.com/chrisfix8\n→ Website: http://www.ChrisFixed.com\n→ My Channel Home Page: https://www.youtube.com/ChrisFix\n\n**If the video was helpful, remember to give it a \"thumbs up\" and consider subscribing.**\n\nDisclaimer:\nDue to factors beyond the control of ChrisFix, I cannot guarantee against improper use or unauthorized modifications of this information. ChrisFix assumes no liability for property damage or injury incurred as a result of any of the information contained in this video. Use this information at your own risk. ChrisFix recommends safe practices when working on vehicles and or with tools seen or implied in this video. Due to factors beyond the control of ChrisFix, no information contained in this video shall create any expressed or implied warranty or guarantee of any particular result. Any injury, damage, or loss that may result from improper use of these tools, equipment, or from the information contained in this video is the sole responsibility of the user and not ChrisFix.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yBmV_u7vNCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yBmV_u7vNCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yBmV_u7vNCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yBmV_u7vNCw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yBmV_u7vNCw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ChrisFix",
+        "tags": [
+          "Christmas gift ideas",
+          "car guy gift ideas",
+          "ChrisFix Christmas",
+          "ChrisFix Christmas gift ideas",
+          "chrisfix"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Top Car Tools and Gadgets of 2022 (Christmas Gift Ideas)",
+          "description": "Here's my top 5 Christmas Gift Ideas for car guys and girls. These are the coolest gadgets and most helpful tools I could think of for this year. \nThis year's gifts are extra special with the BRAND NEW ChrisFix children's book and ChrisFix Extendable Ratchet Set!!!\n I also included stocking stuffers for even more gift ideas on a budget! These gift ideas are all products I personally use and like enough to share with my fans! \n\nChrisFix Children's Book: https://amzn.to/3hsrlgb\n\n1.\nChrisFix Extendable Ratchets: https://amzn.to/3ho15TX \nRatcheting Flare nut wrench: https://amzn.to/3UPIZb2 \nReverse Bleeder: https://amzn.to/3hi8AvH \n\n2. \nVacuum Carpet Extractor: https://amzn.to/3W96Rbu\nVacuum extractor attachment: https://amzn.to/3Yds9pF \nSteam Cleaner: https://amzn.to/3uJRKJs \n\n3.\nM12 Tire Inflator: https://amzn.to/3FSQpq9\nM18 Tire Inflator: https://amzn.to/3BrDMiR \nRyobi Tire Inflator: https://amzn.to/3VQYjWj \nTorque Lug Wrench: https://amzn.to/3Wb4LqU \n\n4.\nKnife Sharpener: https://amzn.to/3WaLLJ4\nLeatherman Multitool: https://amzn.to/3FIOnsg \nNut and Bolt size tester: https://amzn.to/3uI0qjq \n\n5.\nFlexible Borescope Camera: https://amzn.to/3FlCZkF \nSmall Dual Lens Camera: https://amzn.to/3Wh4Wkx\nCavity Wax: https://amzn.to/3FJgh7D\n\nThe Other Christmas Gift Idea videos I did:\n1st year: https://www.youtube.com/watch?v=esMSQ8iF924\n2nd year: https://www.youtube.com/watch?v=3-PZ4gE5o14\n3rd year: https://www.youtube.com/watch?v=EOeOZPiF8qY\n4th year: https://www.youtube.com/watch?v=DvcpqCPQ3uI\n5th year: https://www.youtube.com/watch?v=2K9i_RTAV7E\n6th year: https://www.youtube.com/watch?v=vYv4QAqRwBw\n\n0:00 7th Annual Top 5 Christmas Gift Ideas for Car Guys and Girls Intro\n0:58 ChrisFix children's book\n1:59 Flare nut ratcheting wrenches\n4:21 ChrisFix extendable ratchet set\n8:09 Reverse brake bleeder\n9:45 Extractor vacuum cleaner\n12:04 Extractor vacuum attachment\n13:27 Steam cleaner\n14:13 Milwaukee and Ryobi tire inflator\n16:29 Lug torque wrench\n18:14 Knife and tool sharpener\n20:35 Leatherman multitool\n23:39 Nut and bolt measuring tool\n24:41 Borescope camera\n26:51 Cavity wax rust prevention\n\n___________________________________________\n→ As an Amazon Associate I earn from qualifying purchases.\n→ Become a ChrisFix Subscriber: http://www.youtube.com/subscription_center?add_user=paintballoo7\n→ Instagram: https://www.instagram.com/chrisfixit\n→ Facebook: https://www.facebook.com/chrisfix8\n→ Website: http://www.ChrisFixed.com\n→ My Channel Home Page: https://www.youtube.com/ChrisFix\n\n**If the video was helpful, remember to give it a \"thumbs up\" and consider subscribing.**\n\nDisclaimer:\nDue to factors beyond the control of ChrisFix, I cannot guarantee against improper use or unauthorized modifications of this information. ChrisFix assumes no liability for property damage or injury incurred as a result of any of the information contained in this video. Use this information at your own risk. ChrisFix recommends safe practices when working on vehicles and or with tools seen or implied in this video. Due to factors beyond the control of ChrisFix, no information contained in this video shall create any expressed or implied warranty or guarantee of any particular result. Any injury, damage, or loss that may result from improper use of these tools, equipment, or from the information contained in this video is the sole responsibility of the user and not ChrisFix."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT30M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "314503",
+        "likeCount": "21867",
+        "favoriteCount": "0",
+        "commentCount": "2040"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
