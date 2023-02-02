@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Outlet } from 'react-router-dom';
+import SearchHeader from './components/SearchHeader';
 /**
  * <APIS>
  *
@@ -14,7 +15,7 @@ import { Outlet } from 'react-router-dom';
 function App(): JSX.Element {
   return (
     <>
-      {/* search header place here! */}
+      <SearchHeader />
       <Outlet />
     </>
   );

@@ -1,5 +1,7 @@
 import React from 'react';
+import { useParams } from 'react-router-dom';
 
 export default function Videos() {
-  return <div>Hot Trending Videos</div>;
+  const { keyword } = useParams();
+  return <div>Videos {keyword ? `🔎${keyword}` : '🔥 trending'}</div>;
 }
