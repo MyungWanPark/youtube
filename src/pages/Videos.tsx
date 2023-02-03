@@ -2,9 +2,9 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import VideoCard from './../components/VideoCard';
-import axios from 'axios';
+import YoutubeMock from '../api/youtubeMock';
 
-export interface PopularVideoItem {
+export interface VideoItem {
     id: string;
     snippet: {
         title: string;
@@ -28,14 +28,9 @@ export default function Videos() {
         data: videos,
     } = useQuery(
         ['videos', keyword],
-        async () => {
-            console.log('fetching data...');
-            return axios
-                .get(`/videos/${keyword ? 'searchResult' : 'mostPopularVideo'}.json`) //
-                .then((res) => {
-                    console.log(res);
-                    return res.data.items;
-                });
+        () => {
+            const youtubeMock = new YoutubeMock();
+            return youtubeMock.search(keyword);
         },
         {
             staleTime: 1000 * 60 * 60 * 24,
@@ -48,9 +43,9 @@ export default function Videos() {
             {error && <p>Network Error...</p>}
             {videos && (
                 <ul>
-                    {keyword
-                        ? videos.map((video: SearchVideoItem) => <VideoCard key={video.id.videoId} video={video} />)
-                        : videos.map((video: PopularVideoItem) => <VideoCard key={video.id} video={video} />)}
+                    {videos.map((video: VideoItem) => (
+                        <VideoCard key={video.id} video={video} />
+                    ))}
                 </ul>
             )}
         </>

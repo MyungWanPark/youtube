@@ -1,14 +1,10 @@
 import React from 'react';
-import { PopularVideoItem, SearchVideoItem } from './../pages/Videos';
+import { VideoItem } from './../pages/Videos';
 
-type PopularVideo = {
-    video: PopularVideoItem;
+type Video = {
+    video: VideoItem;
 };
 
-type SearchVideo = {
-    video: SearchVideoItem;
-};
-
-export default function VideoCard({ video }: PopularVideo | SearchVideo) {
+export default function VideoCard({ video }: Video) {
     return <div>{video.snippet.title}</div>;
 }
