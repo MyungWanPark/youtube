@@ -1,17 +1,10 @@
 import axios from 'axios';
 import { SearchVideoItem } from '../pages/Videos';
-import { VideoItem } from './../pages/Videos';
+import { VideoItem } from '../pages/Videos';
+import { YoutubeFindData } from './youtubeClient';
 
-export interface Youtube {
-    search(keyword?: string): Promise<VideoItem[]>;
-}
-
-export class YoutubeMock implements Youtube {
-    search(keyword?: string) {
-        return keyword ? this.searchByKeyword() : this.mostPopular();
-    }
-
-    private async searchByKeyword(): Promise<VideoItem[]> {
+export class YoutubeMockClient implements YoutubeFindData {
+    async search(): Promise<VideoItem[]> {
         return axios
             .get(`/videos/searchResult.json`) //
             .then((res) => res.data.items)
@@ -23,7 +16,7 @@ export class YoutubeMock implements Youtube {
             );
     }
 
-    private async mostPopular(): Promise<VideoItem[]> {
+    async mostPopular(): Promise<VideoItem[]> {
         return axios
             .get(`/videos/mostPopularVideo.json`) //
             .then((res) => res.data.items);

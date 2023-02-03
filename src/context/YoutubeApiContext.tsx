@@ -1,11 +1,12 @@
 import { createContext, useContext } from 'react';
-import YoutubeImpl from './../api/youtube';
+import YoutubeImpl from '../api/youtube';
+import YoutubeClient from '../api/youtubeClient';
 
 type Children = {
     children: JSX.Element;
 };
-
-const youtube = new YoutubeImpl();
+const client = new YoutubeClient();
+const youtube = new YoutubeImpl(client);
 export const YoutubeApiContext = createContext({ youtube });
 
 export function YoutubeApiProvider({ children }: Children) {

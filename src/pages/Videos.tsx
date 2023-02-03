@@ -31,7 +31,7 @@ export default function Videos() {
     } = useQuery(
         ['videos', keyword],
         () => {
-            return youtube.search(keyword);
+            return keyword ? youtube.search(keyword) : youtube.popular();
         },
         {
             staleTime: 1000 * 60 * 60 * 24,
