@@ -2,6 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import VideoCard from './../components/VideoCard';
+import axios from 'axios';
 
 export interface PopularVideoItem {
     id: string;
@@ -29,9 +30,12 @@ export default function Videos() {
         ['videos', keyword],
         async () => {
             console.log('fetching data...');
-            return fetch(`/videos/${keyword ? 'searchResult' : 'mostPopularVideo'}.json`)
-                .then((res) => res.json())
-                .then((data) => data.items);
+            return axios
+                .get(`/videos/${keyword ? 'searchResult' : 'mostPopularVideo'}.json`) //
+                .then((res) => {
+                    console.log(res);
+                    return res.data.items;
+                });
         },
         {
             staleTime: 1000 * 60 * 60 * 24,
