@@ -2,7 +2,8 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import VideoCard from './../components/VideoCard';
-import YoutubeMock from '../api/youtubeMock';
+// import { YoutubeMock } from '../api/youtubeMock';
+import YoutubeImpl from '../api/youtube';
 
 export interface VideoItem {
     id: string;
@@ -29,8 +30,9 @@ export default function Videos() {
     } = useQuery(
         ['videos', keyword],
         () => {
-            const youtubeMock = new YoutubeMock();
-            return youtubeMock.search(keyword);
+            // const youtube = new YoutubeMock();
+            const youtube = new YoutubeImpl();
+            return youtube.search(keyword);
         },
         {
             staleTime: 1000 * 60 * 60 * 24,
@@ -43,9 +45,10 @@ export default function Videos() {
             {error && <p>Network Error...</p>}
             {videos && (
                 <ul>
-                    {videos.map((video: VideoItem) => (
-                        <VideoCard key={video.id} video={video} />
-                    ))}
+                    {videos.map((video: VideoItem) => {
+                        // console.log(video.id);
+                        return <VideoCard key={video.id} video={video} />;
+                    })}
                 </ul>
             )}
         </>

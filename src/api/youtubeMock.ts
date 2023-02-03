@@ -2,7 +2,11 @@ import axios from 'axios';
 import { SearchVideoItem } from '../pages/Videos';
 import { VideoItem } from './../pages/Videos';
 
-export default class YoutubeMock {
+export interface Youtube {
+    search(keyword?: string): Promise<VideoItem[]>;
+}
+
+export class YoutubeMock implements Youtube {
     search(keyword?: string) {
         return keyword ? this.searchByKeyword() : this.mostPopular();
     }
