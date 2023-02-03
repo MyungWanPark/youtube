@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import VideoCard from './../components/VideoCard';
 // import { YoutubeMock } from '../api/youtubeMock';
-import YoutubeImpl from '../api/youtube';
+import { useYoutube } from './../context/YoutubeApiContext';
 
 export interface VideoItem {
     id: string;
@@ -23,6 +23,7 @@ export interface SearchVideoItem {
 
 export default function Videos() {
     const { keyword } = useParams();
+    const { youtube } = useYoutube();
     const {
         isLoading,
         error,
@@ -30,8 +31,6 @@ export default function Videos() {
     } = useQuery(
         ['videos', keyword],
         () => {
-            // const youtube = new YoutubeMock();
-            const youtube = new YoutubeImpl();
             return youtube.search(keyword);
         },
         {
