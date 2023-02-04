@@ -24,10 +24,6 @@ export interface SearchVideoItem {
     };
 }
 
-export type Video = {
-    video: VideoItem;
-};
-
 export type ChannelProps = {
     id: string;
     title: string;

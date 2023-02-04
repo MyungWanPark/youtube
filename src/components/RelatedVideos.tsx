@@ -1,5 +1,9 @@
 import React from 'react';
 
-export default function RelatedVideos({ id }: { id: string }) {
+type Props = {
+    id: string;
+};
+
+export default function RelatedVideos({ id }: Props) {
     return <div>{id}</div>;
 }

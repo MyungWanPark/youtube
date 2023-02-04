@@ -1,6 +1,10 @@
 import React from 'react';
 import { ChannelProps } from '../types/videoType';
 
-export default function ChannelInfo({ info }: { info: ChannelProps }) {
+type Props = {
+    info: ChannelProps;
+};
+
+export default function ChannelInfo({ info }: Props) {
     return <div></div>;
 }

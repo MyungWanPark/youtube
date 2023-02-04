@@ -1,9 +1,13 @@
 import React from 'react';
-import { Video } from '../types/videoType';
+import { VideoItem } from '../types/videoType';
 import { formatAgo } from './../util/date';
 import { useNavigate } from 'react-router-dom';
 
-export default function VideoCard({ video }: Video) {
+type Props = {
+    video: VideoItem;
+};
+
+export default function VideoCard({ video }: Props) {
     const { publishedAt, title, thumbnails, channelTitle } = video.snippet;
     const navigate = useNavigate();
     return (
