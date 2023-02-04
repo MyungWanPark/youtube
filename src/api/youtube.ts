@@ -1,5 +1,5 @@
-import { VideoItem } from '../pages/Videos';
 import { YoutubeFindData } from './youtubeClient';
+import { VideoItem } from './../types/videoType';
 
 export interface Youtube {
     search(keyword: string): Promise<VideoItem[]>;

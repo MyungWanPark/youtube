@@ -4,22 +4,7 @@ import { useQuery } from '@tanstack/react-query';
 import VideoCard from './../components/VideoCard';
 // import { YoutubeMock } from '../api/youtubeMock';
 import { useYoutube } from './../context/YoutubeApiContext';
-
-export interface VideoItem {
-    id: string;
-    snippet: {
-        title: string;
-    };
-}
-
-export interface SearchVideoItem {
-    id: {
-        videoId: string;
-    };
-    snippet: {
-        title: string;
-    };
-}
+import { VideoItem } from './../types/videoType';
 
 export default function Videos() {
     const { keyword } = useParams();

@@ -1,7 +1,6 @@
 import axios from 'axios';
-import { SearchVideoItem } from '../pages/Videos';
-import { VideoItem } from '../pages/Videos';
 import { YoutubeFindData } from './youtubeClient';
+import { SearchVideoItem, VideoItem } from './../types/videoType';
 
 export class YoutubeMockClient implements YoutubeFindData {
     async search(): Promise<VideoItem[]> {

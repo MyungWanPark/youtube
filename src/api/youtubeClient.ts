@@ -1,6 +1,5 @@
 import axios, { AxiosInstance } from 'axios';
-import { SearchVideoItem } from '../pages/Videos';
-import { VideoItem } from '../pages/Videos';
+import { SearchVideoItem, VideoItem } from './../types/videoType';
 
 export interface YoutubeFindData {
     search(params?: {}): Promise<VideoItem[]>;

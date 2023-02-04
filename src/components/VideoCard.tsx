@@ -1,10 +1,17 @@
 import React from 'react';
-import { VideoItem } from './../pages/Videos';
-
-type Video = {
-    video: VideoItem;
-};
+import { Video } from '../types/videoType';
+import { formatAgo } from './../util/date';
 
 export default function VideoCard({ video }: Video) {
-    return <div>{video.snippet.title}</div>;
+    const { publishedAt, title, thumbnails, channelTitle } = video.snippet;
+    return (
+        <li>
+            <img src={thumbnails.medium.url} alt={title} />
+            <div>
+                <p>{title}</p>
+                <p>{channelTitle}</p>
+                <p>{formatAgo(publishedAt)}</p>
+            </div>
+        </li>
+    );
 }
