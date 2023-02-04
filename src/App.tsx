@@ -10,7 +10,7 @@ import { QueryClient } from '@tanstack/query-core';
  * / => <Videos> hot trending videos
  * /videos => <Videos> hot trending videos
  * /videos/query => <Videos> seached videos
- * /videos/id => <VideosDetail> detail video
+ * /videos/watch/id => <VideosDetail> detail video
  *
  */
 

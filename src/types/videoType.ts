@@ -3,6 +3,7 @@ export interface VideoItem {
     snippet: {
         title: string;
         publishedAt: string;
+        channelId: string;
         description: string;
         thumbnails: {
             default: object;
@@ -25,4 +26,9 @@ export interface SearchVideoItem {
 
 export type Video = {
     video: VideoItem;
+};
+
+export type ChannelProps = {
+    id: string;
+    title: string;
 };
