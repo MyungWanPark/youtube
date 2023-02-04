@@ -28,7 +28,7 @@ export default function Videos() {
             {isLoading && <p>isLoading...</p>}
             {error && <p>Network Error...</p>}
             {videos && (
-                <ul>
+                <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-5 gap-2 gap-y-4">
                     {videos.map((video: VideoItem) => {
                         // console.log(video.id);
                         return <VideoCard key={video.id} video={video} />;
