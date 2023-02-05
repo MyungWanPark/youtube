@@ -36,6 +36,7 @@ export default class YoutubeImpl implements Youtube {
             params: {
                 part: 'snippet',
                 maxResults: 25,
+                type: 'video',
                 relatedToVideoId: id,
             },
         });
