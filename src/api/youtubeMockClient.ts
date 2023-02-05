@@ -21,6 +21,18 @@ export class YoutubeMockClient implements YoutubeFindData {
             .then((res) => res.data.items[0].snippet.thumbnails.default.url);
     }
 
+    async relatedVideo(): Promise<VideoItem[]> {
+        return axios
+            .get('/videos/relatedVideo.json') //
+            .then((res) => res.data.items)
+            .then((items) =>
+                items.map((item: SearchVideoItem) => ({
+                    ...item,
+                    id: item.id.videoId,
+                }))
+            );
+    }
+
     async mostPopular(): Promise<VideoItem[]> {
         return axios
             .get(`/videos/mostPopularVideo.json`) //

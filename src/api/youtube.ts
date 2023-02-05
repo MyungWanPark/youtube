@@ -5,6 +5,7 @@ export interface Youtube {
     search(keyword: string): Promise<VideoItem[]>;
     channelImageURL(id: string): Promise<string>;
     popular(): Promise<VideoItem[]>;
+    relatedVideo(id: string): Promise<VideoItem[]>;
 }
 
 export default class YoutubeImpl implements Youtube {
@@ -26,6 +27,16 @@ export default class YoutubeImpl implements Youtube {
                 part: 'snippet',
                 maxResults: 25,
                 id,
+            },
+        });
+    }
+
+    relatedVideo(id: string) {
+        return this.apiClient.relatedVideo({
+            params: {
+                part: 'snippet',
+                maxResults: 25,
+                relatedToVideoId: id,
             },
         });
     }

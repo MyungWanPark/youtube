@@ -5,6 +5,7 @@ export interface YoutubeFindData {
     search(params?: {}): Promise<VideoItem[]>;
     mostPopular(params?: {}): Promise<VideoItem[]>;
     channelImageURL(params?: {}): Promise<string>;
+    relatedVideo(params?: {}): Promise<VideoItem[]>;
 }
 
 export default class YoutubeClient implements YoutubeFindData {
@@ -38,6 +39,20 @@ export default class YoutubeClient implements YoutubeFindData {
         return this.httpClient
             .get('/channels', params) //
             .then((res) => res.data.items[0].snippet.thumbnails.default.url);
+    }
+
+    // GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&relatedToVideoId=abc&key=[YOUR_API_KEY] HTTP/1.1
+
+    async relatedVideo(params: {}): Promise<VideoItem[]> {
+        return this.httpClient
+            .get('/search', params) //
+            .then((res) => res.data.items)
+            .then((items) =>
+                items.map((item: SearchVideoItem) => ({
+                    ...item,
+                    id: item.id.videoId,
+                }))
+            );
     }
 
     // GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=25&key=[YOUR_API_KEY] HTTP/1.1
