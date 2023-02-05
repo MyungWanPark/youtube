@@ -19,7 +19,7 @@ export default function Videos() {
             return keyword ? youtube.search(keyword) : youtube.popular();
         },
         {
-            staleTime: 1000 * 60 * 60 * 24,
+            staleTime: 1000 * 60 * 5,
         }
     );
     return (
