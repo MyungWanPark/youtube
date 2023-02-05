@@ -15,6 +15,12 @@ export class YoutubeMockClient implements YoutubeFindData {
             );
     }
 
+    async channelImageURL(): Promise<string> {
+        return axios
+            .get('/videos/channelInfo.json') //
+            .then((res) => res.data.items[0].snippet.thumbnails.default.url);
+    }
+
     async mostPopular(): Promise<VideoItem[]> {
         return axios
             .get(`/videos/mostPopularVideo.json`) //

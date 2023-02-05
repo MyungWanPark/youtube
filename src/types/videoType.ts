@@ -6,7 +6,9 @@ export interface VideoItem {
         channelId: string;
         description: string;
         thumbnails: {
-            default: object;
+            default: {
+                url: string;
+            };
             medium: {
                 url: string;
             };

@@ -4,6 +4,7 @@ import { SearchVideoItem, VideoItem } from './../types/videoType';
 export interface YoutubeFindData {
     search(params?: {}): Promise<VideoItem[]>;
     mostPopular(params?: {}): Promise<VideoItem[]>;
+    channelImageURL(params?: {}): Promise<string>;
 }
 
 export default class YoutubeClient implements YoutubeFindData {
@@ -30,6 +31,15 @@ export default class YoutubeClient implements YoutubeFindData {
                 }))
             );
     }
+
+    // GET https://youtube.googleapis.com/youtube/v3/channels?part=snippet&id=channelID&maxResults=25&key=[YOUR_API_KEY] HTTP/1.1
+
+    async channelImageURL(params: {}): Promise<string> {
+        return this.httpClient
+            .get('/channels', params) //
+            .then((res) => res.data.items[0].snippet.thumbnails.default.url);
+    }
+
     // GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=25&key=[YOUR_API_KEY] HTTP/1.1
 
     async mostPopular(params: {}): Promise<VideoItem[]> {
