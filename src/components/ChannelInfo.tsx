@@ -10,5 +10,10 @@ type Props = {
 export default function ChannelInfo({ info }: Props) {
     const { youtube } = useYoutube();
     const { isLoading, error, data } = useQuery(['channelInfo', info.id], () => youtube.channelImageURL(info.id));
-    return <div>{data && <img src={data} alt={info.title} />}</div>;
+    return (
+        <div className="my-4 mb-8 flex items-center">
+            {data && <img className="w-10 h-10 rounded-full mr-2" src={data} alt={info.title} />}
+            <p className="text-lg font-medium">{info.title}</p>
+        </div>
+    );
 }
