@@ -6,15 +6,15 @@ import { useLocation } from 'react-router-dom';
 import VideoCard from '../VideoCard';
 import { formatAgo } from '../../util/date';
 import { video } from '../../test/videoData';
-import { memoryRouter } from '../../test/memoryRouter';
+import { withRouter } from '../../test/memoryRouter';
 
 describe('VideoCard', () => {
     const { publishedAt, title, thumbnails, channelTitle } = video.snippet;
 
     test('render video items', () => {
-        //given
+        //arrange
         render(
-            memoryRouter(
+            withRouter(
                 [
                     {
                         path: '/',
@@ -25,7 +25,10 @@ describe('VideoCard', () => {
             )
         );
 
+        //act
         const img = screen.getByRole('img') as HTMLImageElement;
+
+        //assert
         expect(img.src).toBe(thumbnails.medium.url);
         expect(img.alt).toBe(title);
         expect(screen.getByText(title)).toBeInTheDocument();
@@ -35,7 +38,7 @@ describe('VideoCard', () => {
 
     test('render video items with grid type', () => {
         const component = renderer.create(
-            memoryRouter(
+            withRouter(
                 [
                     {
                         path: '/',
@@ -51,7 +54,7 @@ describe('VideoCard', () => {
 
     test('render video items with list type', () => {
         const component = renderer.create(
-            memoryRouter(
+            withRouter(
                 [
                     {
                         path: '/',
@@ -69,9 +72,9 @@ describe('VideoCard', () => {
         function LocationStateDisplay() {
             return <pre>{JSON.stringify(useLocation().state)}</pre>;
         }
-
+        // arrange
         render(
-            memoryRouter(
+            withRouter(
                 [
                     {
                         path: '/',
@@ -85,8 +88,10 @@ describe('VideoCard', () => {
                 ['/']
             )
         );
-
+        //act
         userEvent.click(screen.getByRole('listitem'));
+
+        //assert
         expect(screen.getByText(JSON.stringify({ video }))).toBeInTheDocument();
     });
 });
