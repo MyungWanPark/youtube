@@ -1,6 +1,7 @@
-import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom';
-import { MemoryRouter } from 'react-router-dom';
+import { render, screen } from '@testing-library/react';
+import { createMemoryRouter, MemoryRouter, RouterProvider, useLocation } from 'react-router-dom';
+import userEvent from '@testing-library/user-event';
 import VideoCard from '../VideoCard';
 import { formatAgo } from './../../util/date';
 
@@ -42,5 +43,29 @@ describe('VideoCard', () => {
         expect(screen.getByText(title)).toBeInTheDocument();
         expect(screen.getByText(channelTitle)).toBeInTheDocument();
         expect(screen.getByText(formatAgo(publishedAt))).toBeInTheDocument();
+    });
+
+    test(`navigate to /videos/watch/${video.id} with state when list is clicked`, () => {
+        function LocationStateDisplay() {
+            return <pre>{JSON.stringify(useLocation().state)}</pre>;
+        }
+        const routes = [
+            {
+                path: '/',
+                element: <VideoCard video={video} />,
+            },
+            {
+                path: `/videos/watch/${video.id}`,
+                element: <LocationStateDisplay />,
+            },
+        ];
+
+        const router = createMemoryRouter(routes, {
+            initialEntries: ['/'],
+        });
+        render(<RouterProvider router={router} />);
+
+        userEvent.click(screen.getByRole('listitem'));
+        expect(screen.getByText(JSON.stringify({ video }))).toBeInTheDocument();
     });
 });
