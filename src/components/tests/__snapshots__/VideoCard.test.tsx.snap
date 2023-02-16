@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideoCard render video items with grid type 1`] = `
+<li
+  className=""
+  onClick={[Function]}
+>
+  <img
+    alt="Barbie | Teaser Trailer"
+    className="w-full"
+    src="https://i.ytimg.com/vi/8zIf0XvoL9Y/mqdefault.jpg"
+  />
+  <div>
+    <p
+      className="font-semibold my-2 line-clamp-2"
+    >
+      Barbie | Teaser Trailer
+    </p>
+    <p
+      className="text-sm opacity-80"
+    >
+      Warner Bros. Pictures
+    </p>
+    <p
+      className="text-sm opacity-80"
+    >
+      2 months ago
+    </p>
+  </div>
+</li>
+`;
+
+exports[`VideoCard render video items with list type 1`] = `
+<li
+  className="flex m-2"
+  onClick={[Function]}
+>
+  <img
+    alt="Barbie | Teaser Trailer"
+    className="w-60 mr-3"
+    src="https://i.ytimg.com/vi/8zIf0XvoL9Y/mqdefault.jpg"
+  />
+  <div>
+    <p
+      className="font-semibold my-2 line-clamp-2"
+    >
+      Barbie | Teaser Trailer
+    </p>
+    <p
+      className="text-sm opacity-80"
+    >
+      Warner Bros. Pictures
+    </p>
+    <p
+      className="text-sm opacity-80"
+    >
+      2 months ago
+    </p>
+  </div>
+</li>
+`;
