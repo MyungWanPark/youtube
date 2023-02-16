@@ -3,9 +3,9 @@ import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { useLocation } from 'react-router-dom';
 import VideoCard from '../VideoCard';
-import { formatAgo } from './../../util/date';
+import { formatAgo } from '../../util/date';
 import { video } from '../../test/videoData';
-import { memoryRouter } from './../../test/memoryRouter';
+import { memoryRouter } from '../../test/memoryRouter';
 
 describe('VideoCard', () => {
     const { publishedAt, title, thumbnails, channelTitle } = video.snippet;
