@@ -1,20 +1,11 @@
 import { createContext, useContext } from 'react';
-import YoutubeImpl from '../api/youtube';
-import YoutubeClient from '../api/youtubeClient';
-// import { YoutubeMockClient } from '../api/youtubeMockClient';
 
-type Children = {
-    children: JSX.Element;
-};
-const client = new YoutubeClient();
-// const client = new YoutubeMockClient();
-const youtube = new YoutubeImpl(client);
-export const YoutubeApiContext = createContext({ youtube });
+export const YoutubeApiContext = createContext({
+    youtube: {
+        channelImageURL: (id: string) => new Promise<string>((resolve, reject) => resolve('')),
+    },
+});
 
-export function YoutubeApiProvider({ children }: Children) {
-    return <YoutubeApiContext.Provider value={{ youtube }}>{children}</YoutubeApiContext.Provider>;
-}
-
-export function useYoutube() {
+export function useYoutubeApi() {
     return useContext(YoutubeApiContext);
 }

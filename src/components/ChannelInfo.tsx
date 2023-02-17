@@ -1,14 +1,14 @@
 import React from 'react';
 import { ChannelProps } from '../types/videoType';
 import { useQuery } from '@tanstack/react-query';
-import { useYoutube } from './../context/YoutubeApiContext';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 type Props = {
     info: ChannelProps;
 };
 
 export default function ChannelInfo({ info }: Props) {
-    const { youtube } = useYoutube();
+    const { youtube } = useYoutubeApi();
     const {
         isLoading,
         error,

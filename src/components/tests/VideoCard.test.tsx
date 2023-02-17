@@ -6,7 +6,7 @@ import { useLocation } from 'react-router-dom';
 import VideoCard from '../VideoCard';
 import { formatAgo } from '../../util/date';
 import { video } from '../../test/videoData';
-import { withRouter } from '../../test/memoryRouter';
+import { withRouter } from '../../test/util';
 
 describe('VideoCard', () => {
     const { publishedAt, title, thumbnails, channelTitle } = video.snippet;

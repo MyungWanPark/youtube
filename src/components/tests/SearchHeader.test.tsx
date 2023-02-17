@@ -1,6 +1,6 @@
 import SearchHeader from '../SearchHeader';
 import renderer from 'react-test-renderer';
-import { withRouter } from '../../test/memoryRouter';
+import { withRouter } from '../../test/util';
 import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import userEvent from '@testing-library/user-event';
