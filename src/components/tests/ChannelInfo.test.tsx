@@ -9,6 +9,9 @@ import { render, screen } from '@testing-library/react';
 describe('ChannelInfo', () => {
     const youtubeClient = {
         channelImageURL: jest.fn(),
+        search: jest.fn(),
+        popular: jest.fn(),
+        relatedVideo: jest.fn(),
     };
     afterEach(() => {
         youtubeClient.channelImageURL.mockReset();

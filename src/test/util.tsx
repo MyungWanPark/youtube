@@ -2,6 +2,7 @@ import { createMemoryRouter, RouteObject, RouterProvider } from 'react-router-do
 import { QueryClientProvider } from '@tanstack/react-query';
 import { QueryClient } from '@tanstack/query-core';
 import { YoutubeApiContext } from '../context/YoutubeApiContext';
+import { VideoItem } from './../types/videoType';
 export function withRouter(routesArr: RouteObject[], initialEntries: string[] = ['/']) {
     const routes = routesArr;
 
@@ -16,6 +17,9 @@ export function withAllContext(
     children: JSX.Element,
     youtube: {
         channelImageURL: (id: string) => Promise<string>;
+        search: (keyword: string) => Promise<VideoItem[]>;
+        popular: () => Promise<VideoItem[]>;
+        relatedVideo: (id: string) => Promise<VideoItem[]>;
     }
 ) {
     const testQueryClient = createTestQueryClient();

@@ -3,12 +3,12 @@ import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import VideoCard from './../components/VideoCard';
 // import { YoutubeMock } from '../api/youtubeMock';
-import { useYoutube } from '../context/YoutubeProvider';
 import { VideoItem } from './../types/videoType';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function Videos() {
     const { keyword } = useParams();
-    const { youtube } = useYoutube();
+    const { youtube } = useYoutubeApi();
     const {
         isLoading,
         error,

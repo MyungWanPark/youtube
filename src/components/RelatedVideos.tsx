@@ -1,14 +1,14 @@
 import React from 'react';
-import { useYoutube } from '../context/YoutubeProvider';
 import { useQuery } from '@tanstack/react-query';
 import VideoCard from './VideoCard';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 type Props = {
     id: string;
 };
 
 export default function RelatedVideos({ id }: Props) {
-    const { youtube } = useYoutube();
+    const { youtube } = useYoutubeApi();
     const {
         isLoading,
         error,
