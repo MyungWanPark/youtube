@@ -1,6 +1,8 @@
 import { withAllContext, withRouter } from '../../test/util';
 import ChannelInfo from '../ChannelInfo';
-import { render, screen } from '@testing-library/react';
+import { render, screen, waitFor } from '@testing-library/react';
+import '@testing-library/jest-dom';
+
 /**
  * Test 할 요소
  * 1. useQuery를 통한 youtube.channelImageURL을 잘 받아오는지?
@@ -42,6 +44,9 @@ describe('ChannelInfo', () => {
         renderChannelInfo(testProps);
 
         expect(screen.queryByRole('img')).toBeNull();
+        /*         const errMsg = await screen.findByText('there is an error...');
+        expect(errMsg).toBeInTheDocument(); */
+        expect(await screen.findByText('there is an error...')).toBeInTheDocument();
     });
 
     function renderChannelInfo(Props: { id: string; title: string }) {

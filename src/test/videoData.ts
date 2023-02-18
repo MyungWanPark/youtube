@@ -1,4 +1,4 @@
-export const video = {
+export const videoData = {
     id: '8zIf0XvoL9Y',
     snippet: {
         publishedAt: '2022-12-16T14:00:08Z',
@@ -21,7 +21,7 @@ export const video = {
     },
 };
 
-export const videos = [
+export const videosData = [
     {
         id: '1',
         snippet: {

@@ -20,7 +20,7 @@ export default function ChannelInfo({ info }: Props) {
         <div className="my-4 mb-8 flex items-center">
             <>
                 {isLoading && <p>channel thumbnail is loading..</p>}
-                {error && <p>channel thumbnail is loading..</p>}
+                {error && <p>there is an error...</p>}
                 {imgURL && <img className="w-10 h-10 rounded-full mr-2" src={imgURL} alt={info.title} />}
                 <p className="text-lg font-medium">{info.title}</p>
             </>

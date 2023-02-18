@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Related Videos render with related video 1`] = `
+<DocumentFragment>
+  <ul>
+    <li
+      class="flex m-2"
+    >
+      <img
+        alt="title1"
+        class="w-60 mr-3"
+        src="https://i.ytimg.com/vi/8zIf0XvoL9Y/mqdefault.jpg"
+      />
+      <div>
+        <p
+          class="font-semibold my-2 line-clamp-2"
+        >
+          title1
+        </p>
+        <p
+          class="text-sm opacity-80"
+        >
+          channel title1
+        </p>
+        <p
+          class="text-sm opacity-80"
+        >
+          2 months ago
+        </p>
+      </div>
+    </li>
+    <li
+      class="flex m-2"
+    >
+      <img
+        alt="title2"
+        class="w-60 mr-3"
+        src="https://i.ytimg.com/vi/8zIf0XvoL9Y/mqdefault.jpg"
+      />
+      <div>
+        <p
+          class="font-semibold my-2 line-clamp-2"
+        >
+          title2
+        </p>
+        <p
+          class="text-sm opacity-80"
+        >
+          channel title2
+        </p>
+        <p
+          class="text-sm opacity-80"
+        >
+          2 months ago
+        </p>
+      </div>
+    </li>
+  </ul>
+</DocumentFragment>
+`;
+
+exports[`Related Videos renders correctly 1`] = `
+<DocumentFragment>
+  <ul>
+    <li
+      class="flex m-2"
+    >
+      <img
+        alt="title1"
+        class="w-60 mr-3"
+        src="https://i.ytimg.com/vi/8zIf0XvoL9Y/mqdefault.jpg"
+      />
+      <div>
+        <p
+          class="font-semibold my-2 line-clamp-2"
+        >
+          title1
+        </p>
+        <p
+          class="text-sm opacity-80"
+        >
+          channel title1
+        </p>
+        <p
+          class="text-sm opacity-80"
+        >
+          2 months ago
+        </p>
+      </div>
+    </li>
+    <li
+      class="flex m-2"
+    >
+      <img
+        alt="title2"
+        class="w-60 mr-3"
+        src="https://i.ytimg.com/vi/8zIf0XvoL9Y/mqdefault.jpg"
+      />
+      <div>
+        <p
+          class="font-semibold my-2 line-clamp-2"
+        >
+          title2
+        </p>
+        <p
+          class="text-sm opacity-80"
+        >
+          channel title2
+        </p>
+        <p
+          class="text-sm opacity-80"
+        >
+          2 months ago
+        </p>
+      </div>
+    </li>
+  </ul>
+</DocumentFragment>
+`;

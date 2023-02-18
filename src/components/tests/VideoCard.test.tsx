@@ -5,11 +5,11 @@ import renderer from 'react-test-renderer';
 import { useLocation } from 'react-router-dom';
 import VideoCard from '../VideoCard';
 import { formatAgo } from '../../util/date';
-import { video } from '../../test/videoData';
+import { videoData } from '../../test/videoData';
 import { withRouter } from '../../test/util';
 
 describe('VideoCard', () => {
-    const { publishedAt, title, thumbnails, channelTitle } = video.snippet;
+    const { publishedAt, title, thumbnails, channelTitle } = videoData.snippet;
 
     test('render video items', () => {
         //arrange
@@ -18,7 +18,7 @@ describe('VideoCard', () => {
                 [
                     {
                         path: '/',
-                        element: <VideoCard video={video} />,
+                        element: <VideoCard video={videoData} />,
                     },
                 ],
                 ['/']
@@ -42,7 +42,7 @@ describe('VideoCard', () => {
                 [
                     {
                         path: '/',
-                        element: <VideoCard video={video} />,
+                        element: <VideoCard video={videoData} />,
                     },
                 ],
                 ['/']
@@ -58,7 +58,7 @@ describe('VideoCard', () => {
                 [
                     {
                         path: '/',
-                        element: <VideoCard video={video} type={'list'} />,
+                        element: <VideoCard video={videoData} type={'list'} />,
                     },
                 ],
                 ['/']
@@ -68,7 +68,7 @@ describe('VideoCard', () => {
         expect(component.toJSON()).toMatchSnapshot();
     });
 
-    test(`navigate to /videos/watch/${video.id} with state when list is clicked`, () => {
+    test(`navigate to /videos/watch/${videoData.id} with state when list is clicked`, () => {
         function LocationStateDisplay() {
             return <pre>{JSON.stringify(useLocation().state)}</pre>;
         }
@@ -78,10 +78,10 @@ describe('VideoCard', () => {
                 [
                     {
                         path: '/',
-                        element: <VideoCard video={video} />,
+                        element: <VideoCard video={videoData} />,
                     },
                     {
-                        path: `/videos/watch/${video.id}`,
+                        path: `/videos/watch/${videoData.id}`,
                         element: <LocationStateDisplay />,
                     },
                 ],
@@ -92,6 +92,6 @@ describe('VideoCard', () => {
         userEvent.click(screen.getByRole('listitem'));
 
         //assert
-        expect(screen.getByText(JSON.stringify({ video }))).toBeInTheDocument();
+        expect(screen.getByText(JSON.stringify({ video: videoData }))).toBeInTheDocument();
     });
 });

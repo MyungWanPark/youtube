@@ -1,24 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`ChannelInfo renders correctly 1`] = `
-<DocumentFragment>
-  <div
-    class="my-4 mb-8 flex items-center"
-  >
-    <img
-      alt="title1"
-      class="w-10 h-10 rounded-full mr-2"
-      src="/imageURL"
-    />
-    <p
-      class="text-lg font-medium"
-    >
-      title1
-    </p>
-  </div>
-</DocumentFragment>
-`;
-
 exports[`ChannelInfo renders correctly with imageURL 1`] = `
 <DocumentFragment>
   <div
