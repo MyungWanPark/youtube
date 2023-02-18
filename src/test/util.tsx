@@ -3,7 +3,9 @@ import { QueryClientProvider } from '@tanstack/react-query';
 import { QueryClient } from '@tanstack/query-core';
 import { YoutubeApiContext } from '../context/YoutubeApiContext';
 import { VideoItem } from './../types/videoType';
-export function withRouter(routesArr: RouteObject[], initialEntries: string[] = ['/']) {
+import type { InitialEntry } from '@remix-run/router';
+
+export function withRouter(routesArr: RouteObject[], initialEntries: InitialEntry[] = ['/']) {
     const routes = routesArr;
 
     const router = createMemoryRouter(routes, {

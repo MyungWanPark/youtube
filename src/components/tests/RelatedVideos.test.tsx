@@ -34,7 +34,7 @@ describe('Related Videos', () => {
     });
 
     test('render with related video', async () => {
-        youtubeClient.relatedVideo.mockImplementation((id) => videosData);
+        youtubeClient.relatedVideo.mockImplementation((id) => new Promise((resolve, reject) => resolve(videosData)));
         const { asFragment } = renderRelatedVideos();
 
         expect(youtubeClient.relatedVideo).toHaveBeenCalledWith('id');
