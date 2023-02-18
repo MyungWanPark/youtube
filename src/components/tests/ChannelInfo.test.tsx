@@ -13,29 +13,20 @@ describe('ChannelInfo', () => {
         popular: jest.fn(),
         relatedVideo: jest.fn(),
     };
+
+    const testProps = {
+        id: '1',
+        title: 'title1',
+    };
+
     afterEach(() => {
         youtubeClient.channelImageURL.mockReset();
     });
 
     test('renders correctly with imageURL', async () => {
-        const testProps = {
-            id: '1',
-            title: 'title1',
-        };
-
         youtubeClient.channelImageURL.mockImplementation(() => new Promise((resolve, reject) => resolve('/imageURL')));
 
-        const { asFragment } = render(
-            withAllContext(
-                withRouter([
-                    {
-                        path: '/',
-                        element: <ChannelInfo info={testProps} />,
-                    },
-                ]),
-                youtubeClient
-            )
-        );
+        const { asFragment } = renderChannelInfo(testProps);
 
         const image = (await screen.findByRole('img')) as HTMLImageElement;
         expect(image.src.includes('imageURL')).toBe(true);
@@ -47,23 +38,23 @@ describe('ChannelInfo', () => {
         youtubeClient.channelImageURL.mockImplementation(() => {
             throw new Error('image not found');
         });
-        const testProps = {
-            id: '1',
-            title: 'title1',
-        };
 
-        render(
+        renderChannelInfo(testProps);
+
+        expect(screen.queryByRole('img')).toBeNull();
+    });
+
+    function renderChannelInfo(Props: { id: string; title: string }) {
+        return render(
             withAllContext(
                 withRouter([
                     {
                         path: '/',
-                        element: <ChannelInfo info={testProps} />,
+                        element: <ChannelInfo info={Props} />,
                     },
                 ]),
                 youtubeClient
             )
         );
-
-        expect(screen.queryByRole('img')).toBeNull();
-    });
+    }
 });
