@@ -17,15 +17,15 @@ describe('ChannelInfo', () => {
         youtubeClient.channelImageURL.mockReset();
     });
 
-    test('renders correctly', async () => {
+    test('renders correctly with imageURL', async () => {
         const testProps = {
             id: '1',
             title: 'title1',
         };
 
-        youtubeClient.channelImageURL.mockImplementation(() => '/imageURL');
+        youtubeClient.channelImageURL.mockImplementation(() => new Promise((resolve, reject) => resolve('/imageURL')));
 
-        render(
+        const { asFragment } = render(
             withAllContext(
                 withRouter([
                     {
@@ -40,5 +40,30 @@ describe('ChannelInfo', () => {
         const image = (await screen.findByRole('img')) as HTMLImageElement;
         expect(image.src.includes('imageURL')).toBe(true);
         expect(image.alt).toBe('title1');
+        expect(asFragment()).toMatchSnapshot();
+    });
+
+    test('render without URL', async () => {
+        youtubeClient.channelImageURL.mockImplementation(() => {
+            throw new Error('image not found');
+        });
+        const testProps = {
+            id: '1',
+            title: 'title1',
+        };
+
+        render(
+            withAllContext(
+                withRouter([
+                    {
+                        path: '/',
+                        element: <ChannelInfo info={testProps} />,
+                    },
+                ]),
+                youtubeClient
+            )
+        );
+
+        expect(screen.queryByRole('img')).toBeNull();
     });
 });
