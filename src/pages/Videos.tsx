@@ -22,9 +22,9 @@ export default function Videos() {
             staleTime: 1000 * 60 * 5,
         }
     );
+
     return (
         <>
-            <div>Videos {keyword ? `🔎${keyword}` : '🔥 trending'}</div>
             {isLoading && <p>isLoading...</p>}
             {error && <p>Network Error...</p>}
             {videos && (
