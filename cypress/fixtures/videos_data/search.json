@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "s22hdD7lxIpjmRZ2rv1wzl_rKWg",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 212626,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4Z9ziZsIL2dD85iQcy-8olYq7AI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wM8hYsRgLv0"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-10T02:00:30Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "search title 1",
+                "description": "영국음식 #영국여행 #월드컵 . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wM8hYsRgLv0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wM8hYsRgLv0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wM8hYsRgLv0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-10T02:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NFDMc1O4Dm2Yn_kZfPJOa2CHI4w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OfrWeLCO9rw"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-03T03:00:09Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "유럽인들이 치즈를 먹는 방법",
+                "description": "치즈 #와인 #안주 . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다. . 댓글에 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OfrWeLCO9rw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OfrWeLCO9rw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OfrWeLCO9rw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-03T03:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TN___aP8VxsQBnRV-wAHRMvO_sM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "M2uD6nfLvM0"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-12T02:00:09Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "알고 보면 재미 100배! 싱글벙글 카타르 월드컵!",
+                "description": "카타르 #카타르월드컵 #여행 . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M2uD6nfLvM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M2uD6nfLvM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M2uD6nfLvM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-12T02:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "z4gDL1mg6AnVEOgKHpElwbLxW_s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LLjqsILSm4w"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-26T02:00:06Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "노인빈곤율 1위 / 우리의 미래가 될까?",
+                "description": "노인빈곤율 #노후준비 #국민연금 . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LLjqsILSm4w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LLjqsILSm4w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LLjqsILSm4w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-26T02:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cdDJ4T9bzBkw6uNqCSEJFN_G-7Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PZ-ZKZyBWa4"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-08T02:00:09Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "늘어나는 국제결혼 / 빛과 그림자",
+                "description": "국제결혼 #베트남 . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다. . 댓글에 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PZ-ZKZyBWa4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PZ-ZKZyBWa4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PZ-ZKZyBWa4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-08T02:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1Fj5U6WXzkpCh0IUeHGQxvX7ZzI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wZF6cdDTlvw"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-19T02:00:30Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "너네까지 왜 그래... / 이란 사우디 분쟁",
+                "description": "이란 #히잡 #사형 . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다. . 댓글에 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wZF6cdDTlvw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wZF6cdDTlvw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wZF6cdDTlvw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-19T02:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "V99e1GlGeqabTl2GizUSFH1e4bM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ME20j39gPSQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-10T02:00:04Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "부모가 부자면 아이는 어떻게 자랄까?",
+                "description": "대물림 #빈부격차 #가난 . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ME20j39gPSQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ME20j39gPSQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ME20j39gPSQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-10T02:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lqa8T0UJMa5u52c5JLZiIsTQSBY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TOSFwRb6tbg"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-15T02:00:07Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "금리 인상! 집값 바닥 아직이다",
+                "description": "부동산 #영끌족 #금리 . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TOSFwRb6tbg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TOSFwRb6tbg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TOSFwRb6tbg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-15T02:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yddtkN31URQoxKiFXBUR18oaDu0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cQ8gy6RKFMI"
+            },
+            "snippet": {
+                "publishedAt": "2021-05-22T02:00:04Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "이건희는 대체 어떻게 삼성을 키웠을까?",
+                "description": "삼성 #이건희 #이재용 . 업로드는 매주 토요일 오전 11시 혹은 저녁에 됩니다 . 혐오, 욕설 등 악플은 삭제 됩니다 .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cQ8gy6RKFMI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cQ8gy6RKFMI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cQ8gy6RKFMI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-22T02:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Vv89EyqnFtC5TsacPn1zPygL5rg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ucYa7Ud2L6w"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-13T02:00:25Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "제주도 면적 1.4배! 작은 고추 룩셈부르크가 간다! 얍!",
+                "description": "룩셈부르크 #부자 . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다. . 댓글에 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ucYa7Ud2L6w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ucYa7Ud2L6w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ucYa7Ud2L6w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-13T02:00:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zk_ZKWufb4gp072Q0RgpSR-5TDQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rUcujf9l8hk"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-16T02:00:13Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "인도란... 어떤 곳일까?",
+                "description": "인도 #india #오토바이 . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rUcujf9l8hk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rUcujf9l8hk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rUcujf9l8hk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-16T02:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "USll3sPNcJn5Drsas8ZmyvJ_vSc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qJ5451c7BtQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-17T07:46:47Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "장남 제끼고 이건희가 삼성을 물려받은 이유",
+                "description": "이건희 #이재용 #삼성 □ 영상을 위해 참고한 것들 . 호암자전 / 이병철 (이병철 자서전) . 삼성을 생각한다 / 김용철 (내부 고발) . 묻어둔 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qJ5451c7BtQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qJ5451c7BtQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qJ5451c7BtQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-17T07:46:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "18coFfp33Px523KK4R5Er8i0S08",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w5EtOGTshUI"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-22T02:00:14Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "지방소멸, 한국이 더 심각하다?",
+                "description": "지방소멸 #비혼주의 #일본 . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w5EtOGTshUI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w5EtOGTshUI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w5EtOGTshUI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-22T02:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kH1E6stBx05PZMeqFlOJU_qL5qY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vw4SFFp9vmQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-17T04:32:31Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "국뽕없이 보는 IMF 외환위기 사태",
+                "description": "IMF #외환위기 #선진국 . 업로드는 매주 토요일 오전 11시 혹은 저녁에 됩니다 . 혐오, 욕설 등 악플은 삭제 됩니다 .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vw4SFFp9vmQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vw4SFFp9vmQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vw4SFFp9vmQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-17T04:32:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vA1S8h-KckyxlMpbfzpTX1WBNGo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aMGQKJ3OsEw"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-11T09:00:00Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "압도적인 군사력! 미국이 실패하는 이유!",
+                "description": "업로드는 매주 토요일 오전 11시에! 늦으면 저녁에 됩니다 . 혐오 표현, 욕설, 타인에 대한 공격 등 악플은 삭제됩니다 . 교육 및 학업 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aMGQKJ3OsEw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aMGQKJ3OsEw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aMGQKJ3OsEw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-11T09:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ajG4pqtW91KhKbMJ4tTqRVyM-zo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Qds0_9Dpv7Y"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-16T08:04:06Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "나도 한 집착 한다고...",
+                "description": "금본위제 #금 #골드바 . 영상은 매주 토요일 오전 11시 혹은 토요일 저녁에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 자유롭게 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qds0_9Dpv7Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qds0_9Dpv7Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qds0_9Dpv7Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-16T08:04:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hOpGiZL7QD4Mrp193UIVkl5QEVg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "21Fq694f7FE"
+            },
+            "snippet": {
+                "publishedAt": "2022-02-26T05:30:01Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "학벌사회 [ 무너진다 vs 무너지겠냐 ]",
+                "description": "영상은 매주 토요일 오전 11시 혹은 토요일 저녁에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 자유롭게 사용하셔도 좋습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/21Fq694f7FE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/21Fq694f7FE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/21Fq694f7FE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-02-26T05:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GA0ae3aRfbZNzcU9e5KkNjNR7Xc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b-RjCxBgmIw"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-12T06:40:16Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "재벌급 찐부자만 탈 수 있다! 세계에서 가장 비싼 차! 부가티!",
+                "description": "부가티 #시론 . 업로드는 매주 토요일 오전 11시 혹은 저녁에 됩니다 . 혐오, 욕설 등 악플은 삭제 됩니다 .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b-RjCxBgmIw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b-RjCxBgmIw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b-RjCxBgmIw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-12T06:40:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WFh8yObRHuvEA_bVsqYtmfVV7Xw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "csPjJQ7c-yE"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-17T02:00:13Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "커피 마시면서 보세요!",
+                "description": "커피 #아메리카노 #스타벅스 . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/csPjJQ7c-yE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/csPjJQ7c-yE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/csPjJQ7c-yE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-17T02:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zbr6C9-hLVKXwAecqlLyYI7VjMA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NyedUqbZw7Q"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-16T09:33:24Z",
+                "channelId": "UCVWVcnwckkpF1u81IX6yoGg",
+                "title": "한국에서는 상상도 못할 &quot;베트남 문화&quot;..ㅎㄷㄷ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NyedUqbZw7Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NyedUqbZw7Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NyedUqbZw7Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식랭킹",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-16T09:33:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LZUIPKrNGYWJw_XKB2OtkzyOBM4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4_8XQVDbEVo"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-05T02:00:01Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "부패한 정부가 중국 돈을 빌렸을 때 / 잠비아 국가부도",
+                "description": "잠비아 #국가부도 #imf . 영상은 매주 토요일 오전 11시에 게시됩니다. . 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4_8XQVDbEVo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4_8XQVDbEVo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4_8XQVDbEVo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-05T02:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SH-tX-pn8cbTg1pLXrHzLVNfuTc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J6WgGmaPXd0"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-12T09:00:15Z",
+                "channelId": "UCcYk_KPZZMLv_bcaSAWSSxA",
+                "title": "스타벅스는 왜 세계에서 유일하게 호주에서 실패했을까?",
+                "description": "출간 도서 '삶이 허기질 때 나는 교양을 읽는다' 구매 링크 : https://bit.ly/3tnybpW 우리나라에 부동산 불패가 있다면 커피업계엔 스타 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J6WgGmaPXd0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J6WgGmaPXd0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J6WgGmaPXd0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식 브런치",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-12T09:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "L8uksCDglHFa1XUVZcEROxwnF_k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4XJaauJOUCg"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-18T07:39:39Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "똥 좀 쌀 줄 아는 미국! 리먼 사태! 쉽게 총정리!",
+                "description": "리먼 #서브프라임모기지 #금융위기 . 영상은 매주 토요일 오전 11시 혹은 토요일 저녁에 게시됩니다. . 교육 또는 학업 목적으로는 영상 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4XJaauJOUCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4XJaauJOUCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4XJaauJOUCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-18T07:39:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OuhL04lAu9h0DYZu0VWHziP_M4Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "imXWrL0Wrig"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-18T02:00:07Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "이해할 수 없는 중국! 이해 시켜드립니다!",
+                "description": "업로드는 매주 토요일 오전 11시에! 늦으면 저녁에 됩니다 . 혐오 표현, 욕설, 타인에 대한 공격 등 악플은 삭제됩니다 . 교육 및 학업 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/imXWrL0Wrig/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/imXWrL0Wrig/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/imXWrL0Wrig/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-18T02:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BiEfX6IT2bp5kYLnuOA-oWby_RU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HyaWaKIxHfg"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-19T08:00:02Z",
+                "channelId": "UCi9Sl8GnFdYoqEVXnojBPJw",
+                "title": "4억짜리 아파트 40채 살 돈으로 차 한 대를 뽑는다고? 롤스로이스",
+                "description": "롤스로이스 #럭셔리세단 #세상에서제일비싼차 □ 비즈니스 문의 : scopepublic@naver.com □ 영상을 위해 참고한 것들.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HyaWaKIxHfg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HyaWaKIxHfg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HyaWaKIxHfg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "지식한입",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-19T08:00:02Z"
+            }
+        }
+    ]
+}

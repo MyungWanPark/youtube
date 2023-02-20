@@ -22,7 +22,7 @@ export default function SearchHeader() {
                 <input
                     className="w-7/12 p-2 outline-none bg-black text-gray-50"
                     type="text"
-                    placeholder="seach videos .."
+                    placeholder="search videos .."
                     value={text}
                     onChange={(e: React.ChangeEvent<HTMLInputElement>) => setText(e.target.value)}
                 />

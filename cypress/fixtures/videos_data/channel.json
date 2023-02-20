@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "-yCwyWjhIfKdUCI_OwPS90BE4Bs",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "-oU3l-wYat9kLhgXY2QK14IJyGU",
+      "id": "UCi9Sl8GnFdYoqEVXnojBPJw",
+      "snippet": {
+        "title": "지식한입",
+        "description": "바쁜 세상, 한 입 정돈 괜찮잖아요\n\n. 비즈니스 문의 : scopepublic@naver.com\n. 업로드 일정 : 매주 토요일 오전 11시\n. 영상 편집 툴 : Premiere Pro, After Effect\n. Ending BGM : Feeling Alright - Gavin Luke\n. 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.\n. 욕설, 혐오 및 차별 표현, 타인에 대한 공격, 가짜 뉴스, 링크 등이 포함된 댓글은 삭제됩니다.\n",
+        "customUrl": "@user-yb2xu5dh1n",
+        "publishedAt": "2020-08-19T02:02:22.122602Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu-k7MTOEGcti3CMWrN5PeXh9AKiG4tIMQWeqp01=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu-k7MTOEGcti3CMWrN5PeXh9AKiG4tIMQWeqp01=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu-k7MTOEGcti3CMWrN5PeXh9AKiG4tIMQWeqp01=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "지식한입",
+          "description": "바쁜 세상, 한 입 정돈 괜찮잖아요\n\n. 비즈니스 문의 : scopepublic@naver.com\n. 업로드 일정 : 매주 토요일 오전 11시\n. 영상 편집 툴 : Premiere Pro, After Effect\n. Ending BGM : Feeling Alright - Gavin Luke\n. 교육 또는 학업 목적으로는 영상을 사용하셔도 좋습니다.\n. 욕설, 혐오 및 차별 표현, 타인에 대한 공격, 가짜 뉴스, 링크 등이 포함된 댓글은 삭제됩니다.\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUi9Sl8GnFdYoqEVXnojBPJw"
+        }
+      },
+      "statistics": {
+        "viewCount": "112420929",
+        "subscriberCount": "1100000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "118"
+      }
+    }
+  ]
+}
