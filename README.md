@@ -36,7 +36,7 @@
 - HTTP Library: 
   - <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white" />
 - API for Data:
-  -  - <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" />
+  - <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" />
 - Icons: React-icons
   
 </details>
@@ -57,6 +57,8 @@
   - [Search Video](#Search-Video)
   - [Video Detail](#Video-Detail)
   - [Related Video](#Related-Video)
+- Test
+  - [Test Coverage](#Test-Coverage)
 
 ### Index
 랜딩 페이지 입니다. 
@@ -91,5 +93,14 @@
 <br/>
 
 <img width="1280" alt="related-video-min" src="https://user-images.githubusercontent.com/56289900/227114855-f83a8102-93c7-4d86-9819-27cd22b13301.png">
+
+<br/>
+
+### Test Coverage
+로그인 후 화면 입니다. 네이게이션 바의 우측 상단에 이름을 포함합니다. 
+
+<br/>
+
+<img width="1279" alt="test-coverage-min" src="https://user-images.githubusercontent.com/56289900/227119265-c6b8e23c-1373-430b-8db7-f6ce4f8da132.png">
 
 <br/>
