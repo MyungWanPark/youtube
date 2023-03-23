@@ -40,6 +40,7 @@
 - Icons: React-icons
   
 </details>
+<br/>
 
 ## Features 
 - Show Hot Trending Videos
@@ -58,6 +59,7 @@
 - Unit Test
 - E2E Test
 - Responsive Website
+<br/>
 
 ### Images 
 (이미지 클릭 시, 큰 화면으로 보실 수 있습니다.)
@@ -76,7 +78,7 @@
 
 ### Index
 랜딩 페이지 입니다. <br/>
-가장 인기 있는 비디오들의 목록과 메타 정보들을 보여줍니다.
+가장 인기 있는 비디오들의 목록과 메타 정보들(썸네일 이미지, 영상 제목, 채널명, 업로드 시간)을 보여줍니다.
 
 <br/>
 
