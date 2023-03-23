@@ -35,35 +35,18 @@
 - Design Pattern: OOP with Dependency Injection
 - HTTP Library: 
   - <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white" />
+- API for Data:
+  -  - <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" />
 - Icons: React-icons
   
 </details>
 
 ## Features 
-
-- Auth(인증)
-  - Login, Register, Keep Session (by JWT)
-
-- Product(제품)
-  - Show products (by category, by search keyword, by All)
-  - Create product
-
-- Cart(장바구니)
-  - Add to Cart (장바구니에 추가, 중복 상품 추가 방지)
-  - Read Cart (장바구니에 추가한 상품 조회)
-  - Update Cart (상품 수량을 변경 가능)
-  - Delete Cart (상품을 장바구니에서 제거)
-
-- Analytics(분석)
-  - Query data based on selected period.(선택한 기간에 따른 데이터 조회)
-    - Total Sales amount
-    - New Users number
-    - Sales Volumn
-    - Hot Sales Item
-    - Sales by Day Shown by Chart
-    - Top 5 Items of Sales Shown by Chart
-    - User's inflow route data Shown by Chart
-
+- Show Hot Trending Videos
+- Search Video using keyword
+- See Video Detail
+- Watch Video
+- See Related Video
 - Responsive Website
 
 ### Images 
