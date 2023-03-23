@@ -4,7 +4,7 @@ exports[`Related Videos render with related video 1`] = `
 <DocumentFragment>
   <ul>
     <li
-      class="flex m-2"
+      class="flex m-2 cursor-pointer"
     >
       <img
         alt="title1"
@@ -25,12 +25,12 @@ exports[`Related Videos render with related video 1`] = `
         <p
           class="text-sm opacity-80"
         >
-          2 months ago
+          3 months ago
         </p>
       </div>
     </li>
     <li
-      class="flex m-2"
+      class="flex m-2 cursor-pointer"
     >
       <img
         alt="title2"
@@ -51,7 +51,7 @@ exports[`Related Videos render with related video 1`] = `
         <p
           class="text-sm opacity-80"
         >
-          2 months ago
+          3 months ago
         </p>
       </div>
     </li>
@@ -63,7 +63,7 @@ exports[`Related Videos renders correctly 1`] = `
 <DocumentFragment>
   <ul>
     <li
-      class="flex m-2"
+      class="flex m-2 cursor-pointer"
     >
       <img
         alt="title1"
@@ -84,12 +84,12 @@ exports[`Related Videos renders correctly 1`] = `
         <p
           class="text-sm opacity-80"
         >
-          2 months ago
+          3 months ago
         </p>
       </div>
     </li>
     <li
-      class="flex m-2"
+      class="flex m-2 cursor-pointer"
     >
       <img
         alt="title2"
@@ -110,7 +110,7 @@ exports[`Related Videos renders correctly 1`] = `
         <p
           class="text-sm opacity-80"
         >
-          2 months ago
+          3 months ago
         </p>
       </div>
     </li>
