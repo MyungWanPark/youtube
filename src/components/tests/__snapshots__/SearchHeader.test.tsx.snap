@@ -41,7 +41,7 @@ exports[`SearchHeader Search Header render correctly 1`] = `
     <input
       className="w-7/12 p-2 outline-none bg-black text-gray-50"
       onChange={[Function]}
-      placeholder="seach videos .."
+      placeholder="search videos .."
       type="text"
       value=""
     />

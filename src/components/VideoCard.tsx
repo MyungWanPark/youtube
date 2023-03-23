@@ -15,7 +15,7 @@ export default function VideoCard({ video, type }: Props) {
 
     return (
         <li
-            className={isList ? 'flex m-2' : ''}
+            className={`${isList ? 'flex m-2' : ''} cursor-pointer`}
             onClick={() => navigate(`/videos/watch/${video.id}`, { state: { video } })}
         >
             <img className={isList ? 'w-60 mr-3' : 'w-full'} src={thumbnails.medium.url} alt={title} />
