@@ -96,7 +96,7 @@
 
 <br/>
 
-<img width="1280" alt="video-detail-min" src="https://user-images.githubusercontent.com/56289900/227114860-98ff9ecb-73a8-488d-9f52-9a3a47784ea4.png">
+<img width="1280" alt="video-detail-min" src="https://user-images.githubusercontent.com/56289900/227116329-22c61243-8aaa-4686-a371-c6b9fc9c4075.png">
 
 <br/>
 
