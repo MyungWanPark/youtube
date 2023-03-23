@@ -43,10 +43,18 @@
 
 ## Features 
 - Show Hot Trending Videos
+  - Video Thumbnails
+  - Video Titles
+  - Upload Channel Titles
+  - Formatted Video Released Dates
 - Search Video using keyword
-- See Video Detail
+- Show Video Detail
+  - Video URL
+  - Channel Name, Image
+  - Video Description
+  - Related Videos List
 - Watch Video
-- See Related Video
+- Related Video
 - Unit Test
 - E2E Test
 - Responsive Website
@@ -68,7 +76,7 @@
 
 ### Index
 랜딩 페이지 입니다. <br/>
-가장 인기 있는 비디오들의 목록을 보여줍니다.
+가장 인기 있는 비디오들의 목록과 메타 정보들을 보여줍니다.
 
 <br/>
 
@@ -78,9 +86,9 @@
 
 ### Search Video
 보고 싶은 비디오의 제목을 검색합니다. <br/>
-검색 후, 그와 관련된 비디오들의 목록을 확인할 수 있습니다. <br/>
+검색 후, 그와 관련된 비디오들의 목록과 메타 정보들을 확인할 수 있습니다. <br/>
 아래 예시는 'messi goal'을 검색한 결과 입니다. <br/>
-Youtube API의 할당량 제한으로 인해, 배포된 사이트에는 mock video data 를 사용하였습니다. <br/>
+배포된 사이트에는 Youtube API의 할당량 제한으로 인해 mock video data 를 사용하였습니다. <br/>
 따라서 정해진 비디오만 나오게 됩니다.
 
 <br/>
@@ -92,8 +100,8 @@ Youtube API의 할당량 제한으로 인해, 배포된 사이트에는 mock vid
 ### Video Detail
 보고 싶은 비디오 썸네일을 클릭하면 상세 비디오 화면으로 이동합니다. <br/>
 Play Button 을 누르면 비디오를 볼 수 있습니다. <br/>
-비디오 플레이어 밑에는 비디오 제목, 채널 이름, 채널 이미지, 비디오 설명을 보여줍니다. <br/>
-오른쪽에는 지금 보고 있는 비디오와 연관된 비디오들의 목록을 보여줍니다.
+비디오 플레이어 밑에는 비디오 제목, 채널 이름, 채널 이미지, 비디오에 관한 설명을 보여줍니다. <br/>
+오른쪽에는 현 보고 있는 비디오와 연관된 비디오들의 목록과 메타 정보들을 보여줍니다.
 
 <br/>
 
