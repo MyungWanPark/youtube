@@ -21,16 +21,18 @@
 - Framework: 
   - <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
   - Function Component, React Hooks, React Router Dom, React Query(TanStack Query) etc
-
+  
+- Test:
+  - Unit Test
+    - <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
+  - E2E Test
+    - <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=Cypress&logoColor=white" />
+  
 - UI: 
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-
-- UI Library: 
-  - <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white" />
   
 - State Management: Context API
-- Design Pattern: Dependency Injection
-- Chart Library: ApexCharts.js
+- Design Pattern: OOP with Dependency Injection
 - HTTP Library: 
   - <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white" />
 - Icons: React-icons
