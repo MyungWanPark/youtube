@@ -47,21 +47,28 @@
 - See Video Detail
 - Watch Video
 - See Related Video
+- Unit Test
+- E2E Test
 - Responsive Website
 
 ### Images 
 (이미지 클릭 시, 큰 화면으로 보실 수 있습니다.)
 
-- Main Pages
+- [Main Pages](#Videos)
   - [Index](#Index)
   - [Search Video](#Search-Video)
   - [Video Detail](#Video-Detail)
   - [Related Video](#Related-Video)
-- Test
+- [Test](#Test)
   - [Test Coverage](#Test-Coverage)
 
+<br/>
+
+## Videos
+
 ### Index
-랜딩 페이지 입니다. 
+랜딩 페이지 입니다. <br/>
+가장 인기 있는 비디오들의 목록을 보여줍니다.
 
 <br/>
 
@@ -70,7 +77,11 @@
 <br/>
 
 ### Search Video
-로그인 화면 입니다. Kakao Login 은 구현할 예정입니다.
+보고 싶은 비디오의 제목을 검색합니다. <br/>
+검색 후, 그와 관련된 비디오들의 목록을 확인할 수 있습니다. <br/>
+아래 예시는 'messi goal'을 검색한 결과 입니다. <br/>
+Youtube API의 할당량 제한으로 인해, 배포된 사이트에는 mock video data 를 사용하였습니다. <br/>
+따라서 정해진 비디오만 나오게 됩니다.
 
 <br/>
 
@@ -79,7 +90,10 @@
 <br/>
 
 ### Video Detail
-회원가입 화면 입니다. 회원가입 후 자동으로 로그인 되도록 구현하였습니다.
+보고 싶은 비디오 썸네일을 클릭하면 상세 비디오 화면으로 이동합니다. <br/>
+Play Button 을 누르면 비디오를 볼 수 있습니다. <br/>
+비디오 플레이어 밑에는 비디오 제목, 채널 이름, 채널 이미지, 비디오 설명을 보여줍니다. <br/>
+오른쪽에는 지금 보고 있는 비디오와 연관된 비디오들의 목록을 보여줍니다.
 
 <br/>
 
@@ -88,7 +102,7 @@
 <br/>
 
 ### Related Video
-로그인 후 화면 입니다. 네이게이션 바의 우측 상단에 이름을 포함합니다. 
+상세 비디오 화면에서 연관된 비디오를 클릭했을 때 그 비디오의 상세 화면으로 이동합니다. <br/>
 
 <br/>
 
@@ -96,8 +110,11 @@
 
 <br/>
 
+## Test
+
 ### Test Coverage
-로그인 후 화면 입니다. 네이게이션 바의 우측 상단에 이름을 포함합니다. 
+Unit Test의 결과입니다. <br/>
+Main Feature 테스트는 모두 실시하였으며, 코드 전체의 50.54%를 커버하였습니다.
 
 <br/>
 
